@@ -19,7 +19,6 @@ params:
   description: "Jason Brownlee's Blog"
   keywords: [Blog, Jason Brownlee]
   author: Jason Brownlee
-  # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -30,7 +29,7 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
-  ShowWordCount: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
@@ -52,7 +51,7 @@ params:
 
   label:
     text: "Blog"
-    icon: /apple-touch-icon.png
+    icon: /blog/pics/profile_200.jpg
     iconHeight: 35
 
   # # profile-mode
@@ -72,8 +71,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hello there \U0001F44B"
-    Content: My name is Jason Brownlee. Welcome to my blog!
+    Title: "Jason Brownlee's Blog"
+    Content: Hello and welcome to my blog where I burn off ideas.
 
   socialIcons:
     - name: x
@@ -82,6 +81,8 @@ params:
       url: "https://www.linkedin.com/in/jasonbrownlee/"
     - name: github
       url: "https://github.com/Jason2Brownlee"
+    - name: goodreads
+      url: "https://www.goodreads.com/author/show/1329126.Jason_Brownlee"
     - name: homepage
       url: "https://JasonBrownlee.me"
 
@@ -119,7 +120,7 @@ menu:
     - identifier: homepage
       name: Home Page
       url: https://JasonBrownlee.me
-      weight: 30
+      weight: 10
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
