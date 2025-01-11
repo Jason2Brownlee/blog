@@ -1,8 +1,8 @@
 ---
 date: '2025-01-10'
 title: 'Excessive Cognitive Surplus'
-cover:
-    image: "/blog/pics/Cognitive-Surplus.jpg"
+# cover:
+#     image: "/blog/pics/Cognitive-Surplus.jpg"
 ---
 
 I re-read Clay Shirky's 2010 book "[Cognitive Surplus](https://www.goodreads.com/book/show/7614793-cognitive-surplus)" yesterday.
