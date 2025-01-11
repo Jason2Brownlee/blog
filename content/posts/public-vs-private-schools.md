@@ -86,6 +86,47 @@ These studies collectively indicate that when accounting for socioeconomic facto
 
 ---
 
-I didn't fact check anything. Perhaps there's some hallucinating.
+I didn't fact check anything.
+
+Perhaps there's some hallucinating.
+
+**I strongly suspect this in fact, after some checking on google scholar.**
 
 The vibe of the response matches the discussion that sparked this piece and my takeaways from the book I mentioned above..
+
+
+**Update:** (Jan 12th)
+
+Okay, here's a better attempt via perplexity:
+
+---
+
+Recent studies in Australia comparing academic outcomes between public and private schools have found minimal differences when accounting for socioeconomic factors:
+
+1. A 2022 study by the Australian Educational Researcher found no tangible difference in academic achievement between public and private schools[1].
+
+2. Research from the University of Melbourne showed that NAPLAN scores of children who attended private schools were no different from those in public schools after accounting for socioeconomic background[4].
+
+3. An analysis of students' learning trajectories across NAPLAN test years (3, 5, 7, and 9) revealed:
+
+   - Students who switched from public to private schools in year 7 outperformed others, but this was due to their prior high achievement in public primary schools[4].
+   - There were no differences in achievement trajectories between public and private school students, indicating that private schools did not add value to students' academic growth[4].
+
+4. While some Australian research suggests private school students are more likely to complete school and attend university, these outcomes are difficult to separate from the effects of students' background characteristics[3][4].
+
+5. A recent study found that a school's socioeconomic status predicts student achievement of minimum literacy and numeracy benchmarks. Disadvantaged students attending advantaged schools were twice as likely to reach minimum standards compared to those in disadvantaged schools[5].
+
+In summary, these studies consistently show that apparent academic advantages of private schools largely disappear when socioeconomic factors are taken into account. The socioeconomic composition of a school, rather than its public or private status, appears to be a more significant predictor of academic outcomes.
+
+Citations:
+* [1] https://www.jacarandafinance.com.au/general/private-school-vs-public-school/
+* [2] https://melbourneinstitute.unimelb.edu.au/research/economic-wellbeing/private-v-public-the-impact-of-private-primary-schools
+* [3] https://childmags.com.au/do-kids-do-better-in-public-or-private-schools/
+* [4] https://theconversation.com/going-to-private-school-wont-make-a-difference-to-your-kids-academic-scores-175638
+* [5] https://theconversation.com/the-type-of-school-does-matter-when-it-comes-to-a-childs-academic-performance-199886
+
+---
+
+The TLDR from the summary:
+
+> In summary, these studies consistently show that apparent academic advantages of private schools largely disappear when socioeconomic factors are taken into account. The socioeconomic composition of a school, rather than its public or private status, appears to be a more significant predictor of academic outcomes.
