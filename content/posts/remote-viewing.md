@@ -47,6 +47,8 @@ So I went off and read some books:
 
 "Mind-Reach" reads partly like a bag of research papers and partly like a research journal. I like it.
 
+I have a few more books on the topic to get through.
+
 If (big IF!) this stuff isn't bunk, then surely an ensemble of viewers is the move here for any real-world tasking?
 
 Anyway, if I ever write fiction, it's going to come across like the Telepathy Tapes or Mind-Reach.
