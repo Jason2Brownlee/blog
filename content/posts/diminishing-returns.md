@@ -50,7 +50,7 @@ Am I understanding this correctly?
 
 I ran it by gpt4o to make sure I was not messing things up in my head.
 
-As always, he's summary was crystal clear.
+As always, his summary was crystal clear.
 
 Paraphrased and formatted:
 

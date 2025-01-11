@@ -72,7 +72,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Jason Brownlee's Blog"
-    Content: Hello and welcome to my blog where I burn off ideas.
+    Content: Hello, I'm Jason and welcome to my blog where I _purge ideas_ and try to _figure out what I think_.
 
   socialIcons:
     - name: x
