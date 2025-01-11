@@ -7,7 +7,7 @@ cover:
 
 Stacking or Stacked Generalization is an ensemble machine learning algorithm.
 
-I've been obsessed with it since I discovered it as part of the Weka in the late 1990s and reading about it in the Weka "Data Mining" book at the same time.
+I've been obsessed with it since I discovered it as part of the [Weka](https://en.wikipedia.org/wiki/Weka_(software)) in the late 1990s and reading about it in the Weka "Data Mining" book at the same time.
 
 From the 2016 edition:
 
@@ -15,13 +15,13 @@ From the 2016 edition:
 
 -- Page 497, [Data Mining: Practical Machine Learning Tools and Techniques](https://www.goodreads.com/book/show/30422190-data-mining), 2016.
 
-Stacking was also a massive part of the million dollar [netflix prize](https://en.wikipedia.org/wiki/Netflix_Prize) that I followed closely, although they called it blending.
+Stacking was also a massive part of the million dollar [netflix prize](https://en.wikipedia.org/wiki/Netflix_Prize) that I followed closely, although they called it blending (e.g. use of a linear model as the meta learner).
 
 > Our RMSE=0.86432 solution is a linear blend of over 100 results.
 
 -- [The BellKor 2008 Solution to the Netflix Prize](https://web.archive.org/web/20120216094744/http://www.netflixprize.com/assets/ProgressPrize2008_BellKor.pdf)
 
-I've written about this algorithm many times, including [how to code it from scratch](https://machinelearningmastery.com/implementing-stacking-scratch-python/), [how to use it in sklearn](https://machinelearningmastery.com/stacking-ensemble-machine-learning-with-python/), and [how to use it with neural nets](https://machinelearningmastery.com/stacking-ensemble-for-deep-learning-neural-networks/).
+I've written about this algorithm many times, including [how to code it from scratch](https://machinelearningmastery.com/implementing-stacking-scratch-python/), [how to use it in sklearn](https://machinelearningmastery.com/stacking-ensemble-machine-learning-with-python/), [how to use it with neural nets](https://machinelearningmastery.com/stacking-ensemble-for-deep-learning-neural-networks/), and [how do blending](https://machinelearningmastery.com/blending-ensemble-machine-learning-with-python/).
 
 Nevertheless, I cannot shake it loose.
 
