@@ -1,0 +1,13 @@
+# git ignore
+
+# ignore mac files
+.DS_Store
+**/.DS_Store
+
+# ignore hugo stuff
+public
+dist
+tmp
+resources
+bin
+.hugo_build.lock
