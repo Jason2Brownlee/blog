@@ -22,7 +22,7 @@ params:
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
-  disableThemeToggle: false
+  disableThemeToggle: true
 
   ShowReadingTime: true
   ShowShareButtons: false
@@ -74,17 +74,17 @@ params:
     Title: "Jason Brownlee's Blog"
     Content: Hello, I'm Jason and welcome to my blog where I _purge ideas_ and try to _figure out what I think_.
 
-  socialIcons:
-    - name: x
-      url: "https://x.com/jason2brownlee"
-    - name: linkedin
-      url: "https://www.linkedin.com/in/jasonbrownlee/"
-    - name: github
-      url: "https://github.com/Jason2Brownlee"
-    - name: goodreads
-      url: "https://www.goodreads.com/author/show/1329126.Jason_Brownlee"
-    - name: homepage
-      url: "https://JasonBrownlee.me"
+  # socialIcons:
+  #   - name: x
+  #     url: "https://x.com/jason2brownlee"
+  #   - name: linkedin
+  #     url: "https://www.linkedin.com/in/jasonbrownlee/"
+  #   - name: github
+  #     url: "https://github.com/Jason2Brownlee"
+  #   - name: goodreads
+  #     url: "https://www.goodreads.com/author/show/1329126.Jason_Brownlee"
+  #   - name: homepage
+  #     url: "https://JasonBrownlee.me"
 
   analytics:
     google:
