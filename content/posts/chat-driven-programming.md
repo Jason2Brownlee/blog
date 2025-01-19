@@ -1,6 +1,6 @@
 ---
 date: '2025-01-08'
-title: 'Chat Driven Programming'
+title: 'Chat-Driven Programming'
 ---
 
 Over the last year, I rarely sit down and write code anymore.
