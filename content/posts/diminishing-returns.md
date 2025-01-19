@@ -1,6 +1,6 @@
 ---
 date: '2025-01-12'
-title: 'Diminishing Returns'
+title: 'AI/LLM Diminishing Returns'
 cover:
     image: /blog/pics/Diminishing-returns-graph.png
 ---
