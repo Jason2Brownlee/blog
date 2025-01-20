@@ -72,19 +72,21 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Jason Brownlee's Blog"
-    Content: This is probably not for you. It's a place where I can _purge ideas_ and try to move on bigger/better ideas.
+    Content: This is probably not for you. It's a place where I can _purge ideas_ and try to move on.
 
-  # socialIcons:
-  #   - name: x
-  #     url: "https://x.com/jason2brownlee"
-  #   - name: linkedin
-  #     url: "https://www.linkedin.com/in/jasonbrownlee/"
-  #   - name: github
-  #     url: "https://github.com/Jason2Brownlee"
-  #   - name: goodreads
-  #     url: "https://www.goodreads.com/author/show/1329126.Jason_Brownlee"
-  #   - name: homepage
-  #     url: "https://JasonBrownlee.me"
+  socialIcons:
+    - name: email
+      url: "jason.brownlee05@gmail.com"
+    - name: x
+      url: "https://x.com/jason2brownlee"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/jasonbrownlee/"
+    - name: github
+      url: "https://github.com/Jason2Brownlee"
+    - name: goodreads
+      url: "https://www.goodreads.com/author/show/1329126.Jason_Brownlee"
+    - name: homepage
+      url: "https://JasonBrownlee.me"
 
   analytics:
     google:

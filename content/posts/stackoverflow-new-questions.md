@@ -1,6 +1,6 @@
 ---
 date: '2025-01-09'
-title: 'Stackoverflow New Questions'
+title: 'StackOverflow New Questions'
 cover:
     image: "/blog/pics/StackOverflow-Decline-in-New-Questions.jpeg"
 ---

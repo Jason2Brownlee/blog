@@ -19,7 +19,7 @@ I want a daily email that makes highly specific recommendations made by an LLM b
 4. The general areas of interest/study of those books.
 5. The specific details in my background.
 
-I typically read on topics that interest _me right_ now and I typically read a cluster of books on a topic.
+I typically read on topics that interest me right now and I typically read a cluster of books on a topic.
 
 I want to know about more/better books in the cluster.
 
