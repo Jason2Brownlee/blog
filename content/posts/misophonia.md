@@ -109,7 +109,9 @@ Please note any other sounds that trigger you, specific situations that are part
 
 ---
 
-I scored a 56 (_Moderate misophonia symptoms_)
+I scored a 64 (_Severe misophonia symptoms_)
+
+Maybe I scored myself too high?
 
 This helps, and reminds me:
 
