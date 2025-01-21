@@ -22,7 +22,7 @@ I'm thinking specifically about the world of cheap+powerful LLMs, i.e 2025.
 * Copywriting
 * Thinking?
 
-Make no mistake, LLMs are eating cognitive load bite by bite.
+Make no mistake, LLMs are eating our cognitive workload bite by bite.
 
 We don't need to lift heavy, chatgpt can do it for us.
 
