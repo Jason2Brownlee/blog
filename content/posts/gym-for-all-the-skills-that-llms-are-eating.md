@@ -13,12 +13,13 @@ To fight the entropy, many of us go to the gym. We simulate the labor we used to
 
 What else is atrophying because we are using it less?
 
-I'm thinking specifically in the world of cheap+powerful LLMs, i.e 2025.
+I'm thinking specifically about the world of cheap+powerful LLMs, i.e 2025.
 
 * Writing?
 * Programming?
 * Problem Solving?
 * Reading?
+* Copywriting
 * Thinking?
 
 Make no mistake, LLMs are eating cognitive load bite by bite.
@@ -61,7 +62,7 @@ Escalate to essays, books. Garner feedback.
 
 ## Programming
 
-What does a programming gym look like? What are the "standard exercises?
+What does a programming gym look like? What are the "standard" exercises?
 
 There programming languages that I learned/used a decade or two ago that I would like to keep.
 
@@ -96,7 +97,7 @@ What does a "machine learning" gym look like?
 Much the same.
 
 * Code up a linear regression for this data and predict these values.
-* Tell me all the ways kNN is going to have a problem on this problem.
+* Tell me all the ways kNN is going to have a problem on this data.
 * Use XGB and get an accuracy above 98% on this dataset.
 
 And on.
@@ -105,7 +106,7 @@ Stay sharp.
 
 What does "being yoked" mean here? Encyclopedic memory of methods and papers? Like an academic? Na, a kaggle grandmaster? A deepmind/openai/anthropic staffer? I dunno.
 
-Maybe, we could pull ideas from recent (hot) papers and ask for critique or implementation or similar. It's hard to find the balance of "we're doing a workout" and "we're doing work-work".
+Maybe, we could pull ideas from recent (hot) papers and ask for critiques or implementations or similar. It's hard to find the balance of "we're doing a workout" and "we're doing work-work".
 
 This would be more fun and more current. Staying on top of things is impossible, and this might keep things fun in the losing battle.
 
