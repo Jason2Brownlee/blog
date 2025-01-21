@@ -13,7 +13,7 @@ Mountain climbing is a challenging hobby where the climbers "collect" peaks. Tha
 
 It is about personal accomplishment.
 
-As an aside, Crowley was probably a genius, maybe a psychopath, and a huckster.
+As an aside, Crowley was probably a genius, maybe a psychopath, and a cultist huckster.
 
 Here's gpt4o on "Mountain Climbers Collect Peaks":
 
