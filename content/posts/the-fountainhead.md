@@ -25,7 +25,7 @@ The protagonist responds:
 
 SNAP!
 
-_I don't even think of you._
+"**_I don't even think of you._**"
 
 True or not (it's true for our hero), it's so good.
 
@@ -57,7 +57,9 @@ From [the script](https://assets.scriptslug.com/live/pdf/scripts/good-will-hunti
 >
 > WILL: Cause fuck him, that's why.
 
-Nod. That final line: _Fuck him, that's why!_
+Nod. That final line gets me.
+
+"**_Fuck him, that's why!_**"
 
 I guess it's all power fantasy.
 
