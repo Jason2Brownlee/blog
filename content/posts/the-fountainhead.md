@@ -5,9 +5,9 @@ title: 'A Scene From "The Fountainhead"'
 
 I've probably read Ayn Rand's [The Fountainhead](https://www.goodreads.com/book/show/2122.The_Fountainhead) about a dozen times over the years.
 
-I'm not really into the philosophy of Objectivism, but I'm a fan of the individualism.
+I'm not really into the philosophy of Objectivism, but I'm a fan of the individualism in the story.
 
-Really, I'm a sucker for simple hero stories (think Ender's Game, Dune, etc.)
+Really, I'm a simple sucker for simple hero stories (think Ender's Game, Dune, etc.)
 
 Not sure I'll read the book again for a while. It's comforting to re-read, but I've had enough for now.
 
@@ -61,7 +61,5 @@ Nod. That final line gets me.
 
 "**_Fuck him, that's why!_**"
 
-I guess it's all power fantasy.
-
-But, it makes an impact :)
+I guess it's all power fantasy (i.e. resisting power) --- but, it makes an impact :)
 
