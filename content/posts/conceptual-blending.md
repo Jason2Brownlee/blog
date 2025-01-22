@@ -1,6 +1,6 @@
 ---
 date: '2025-01-23T09:07:26+11:00'
-title: 'Conceptual Blending'
+title: 'Conceptual Blending and LLMs'
 ---
 
 I [tripped over](https://x.com/poetengineer__/status/1882164884227736012) the concept of "[Conceptual Blending](https://en.wikipedia.org/wiki/Conceptual_blending)" (thanks Kat).

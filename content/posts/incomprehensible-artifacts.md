@@ -1,6 +1,6 @@
 ---
 date: '2025-01-23T08:08:38+11:00'
-title: 'Incomprehensible Artifacts'
+title: 'Incomprehensible Artifacts From Our AIs'
 ---
 
 LLMs, or models like them, are going to start giving us artifacts that we cannot (easily) comprehend.
