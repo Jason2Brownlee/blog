@@ -37,6 +37,14 @@ What kinds of things?
 * Laws
 * Proofs
 
+(quick search...)
+
+Yep, we're on our way:
+
+* [Google DeepMind CEO says 2025's the year we start popping pills AI helped invent](https://www.theregister.com/2025/01/22/google_deepmind_ai_drugs/)
+
+> Clinical trials of the first drugs designed with the help of artificial intelligence could commence this year, Google DeepMind CEO Demis Hassabis suggested Tuesday.
+
 Not just hard science stuff, also things from the humanities:
 
 * A piece of music that makes _you_ cry
