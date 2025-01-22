@@ -7,7 +7,7 @@ I've probably read Ayn Rand's [The Fountainhead](https://www.goodreads.com/book/
 
 I'm not really into the philosophy of Objectivism, but I'm a fan of the individualism in the story.
 
-Really, I'm a simple sucker for simple hero stories (think Ender's Game, Dune, etc.)
+Really, I'm a sucker for simple hero stories (think Ender's Game, Dune, etc.)
 
 Not sure I'll read the book again for a while. It's comforting to re-read, but I've had enough for now.
 
