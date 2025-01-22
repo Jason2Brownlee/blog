@@ -1,6 +1,6 @@
 ---
 date: '2025-01-22'
-title: 'Abstraction and Analogies'
+title: 'Abstraction and Analogies with LLMs'
 ---
 
 I was listening to a recent episode of the [Machine Learning Street Talk](https://www.youtube.com/@MachineLearningStreetTalk) podcast (a very fine podcast!).
