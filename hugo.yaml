@@ -88,13 +88,13 @@ params:
     - name: homepage
       url: "https://JasonBrownlee.me"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: ""
+    # bing:
+    #   SiteVerificationTag: "XYZabc"
+    # yandex:
+    #   SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -133,3 +133,7 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+services:
+  googleAnalytics:
+    id: G-YDGXD83FVZ
