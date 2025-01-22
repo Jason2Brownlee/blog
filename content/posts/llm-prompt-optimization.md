@@ -19,7 +19,6 @@ Also, crafting candidate prompt is hard-ish, so we would probably also use LLM i
 
 There'd be a whole pipeline here.
 
-
 Let's check in with gpt4o about this notion:
 
 ---
