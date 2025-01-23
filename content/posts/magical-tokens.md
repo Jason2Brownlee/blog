@@ -1,6 +1,8 @@
 ---
 date: '2025-01-24T05:36:02+11:00'
 title: 'Magical Tokens for LLMs'
+cover:
+    image: /blog/pics/Magical-Tokens-for-LLMs.webp
 ---
 
 Prompts for LLMs matter, a lot.
