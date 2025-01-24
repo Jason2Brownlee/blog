@@ -1,6 +1,6 @@
 ---
 date: '2025-01-25T10:27:21+11:00'
-title: 'Bitter Lesson Evolutionary Computation'
+title: 'The Bitter Lesson Leads To Evolutionary Computation'
 ---
 
 I saw a note about [the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) go by and I left a comment.
