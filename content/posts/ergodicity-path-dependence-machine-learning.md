@@ -9,7 +9,7 @@ Specifically the path-dependency of training the "best" model and our typical so
 
 Could we do better? Are we really stuck and is this really the best way out?
 
-My introduction to [ergodicity](https://en.wikipedia.org/wiki/Ergodicity) came initial from Taleb's books. I think it was [Antifragile](https://www.goodreads.com/book/show/13530973-antifragile) that dug into (the related idea) of [Jensen's inequality](https://en.wikipedia.org/wiki/Jensen%27s_inequality) for the payoff in games, and his book [Skin in the Game](https://www.goodreads.com/book/show/36064445-skin-in-the-game) that dug into ergodicity in games with ruin.
+My introduction to [ergodicity](https://en.wikipedia.org/wiki/Ergodicity) came initially from Taleb's books. I think it was [Antifragile](https://www.goodreads.com/book/show/13530973-antifragile) that dug into (the related idea) of [Jensen's inequality](https://en.wikipedia.org/wiki/Jensen%27s_inequality) for the payoff in games, and his book [Skin in the Game](https://www.goodreads.com/book/show/36064445-skin-in-the-game) that dug into ergodicity in games with ruin.
 
 Great series of books, need to add to the re-read stack for 2025.
 
@@ -38,7 +38,7 @@ Here's a snippet with a scenario that makes the point:
 >
 > The probabilities of success from the collection of people does not apply to cousin Theodorus Ibn Warqa.
 
-The contrast is between ensemble probability and time probability.
+The contrast is between **ensemble probability** and **time probability**.
 
 Again from gpt4o:
 
@@ -97,6 +97,8 @@ And in non-ergodic systems/games, we seek to reduce variance:
 
 > In non-ergodic systems, reducing variance is often more valuable than optimizing for the best possible outcome. This aligns with the use of ensembles, cross-validation, and other techniques that stabilize outcomes in ML.
 
+Nice. I like "_ergodic approximation_", it fits in well.
+
 Okay, so no deep insights, just another way to look at the same old stuff.
 
 One insight I guess.
@@ -105,7 +107,7 @@ Perhaps we can use a validation set to monitor the path dependence of a given tr
 
 As long as the validation set is fantastic (robustly representative of the domain).
 
-I checked in with gpt4o and it agreeded, but it also suggested to perhaps try [random seed hacking](https://github.com/Jason2Brownlee/MachineLearningMischief/blob/main/examples/seed_hacking.md) (!) when training final models.
+I checked in with gpt4o and it agreed, but it also suggested to perhaps try [random seed hacking](https://github.com/Jason2Brownlee/MachineLearningMischief/blob/main/examples/seed_hacking.md) (!) when training final models.
 
 > If computational resources permit, train multiple models with different random seeds and evaluate each on the validation set:
 > * Rank models based on their validation performance.
@@ -113,11 +115,13 @@ I checked in with gpt4o and it agreeded, but it also suggested to perhaps try [r
 >
 > Path Dependence Insights: This approach explicitly leverages path dependence, recognizing that some training runs may "luckily" find better local optima.
 
-Damn!
+WTF!
+
+A random-restart strategy. Find a luck model. Fair enough. Warning! Fragile!
 
 Also, does the idea of an "ergodic approximation" help in other non-ergodic domains that we often treat/evaluate as ergodic?
 
-I guess, it's the same benefit that angel/vc investors get by investing across a portfolio of companies. Sucks for any individual company, given they are likely to "fail" (by some definition of fail), but it's great for the operator at the next level up that can ~~average~~ [argmax](https://en.wikipedia.org/wiki/Arg_max) across the portfolio.
+I guess, it's the same benefit that angel/vc investors get by investing across a portfolio of companies. Sucks for any individual company, given they are likely to "fail" (by some definition of fail), great for the lucky few survivors, also great for the operator at the next level up that can ~~average~~ [argmax](https://en.wikipedia.org/wiki/Arg_max) across the portfolio.
 
 Checking in with gpt4o, yep, we are doing this all over the place (of course we are).
 
