@@ -1,8 +1,6 @@
 ---
 date: '2025-01-24T08:32:18+11:00'
 title: 'Stacking Ensemble With Dropout Regularization'
-cover:
-    image: /blog/pics/Stacking-Ensemble-With-Dropout-Regularization.webp
 ---
 
 I was thinking about stacking ensembles (stacked generalization) in the sauna.
