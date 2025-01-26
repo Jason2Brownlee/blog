@@ -9,7 +9,9 @@ I worked at a pizza shop in high-school.
 
 I used the money to buy my first PC in 1996. I was 15, in year 9, I was obsessed with Quake (quake 1) and the PC was a Intel 133mhz.
 
-We had "family" PCs before this, but this one was mine alone. Purchased with money I earned through hard/gross labor.
+We had "family" PCs before this, but this one was mine alone. Purchased with money I earned through hard labor.
+
+I also purchased a dial-up 33.6 modem and used me brand new PC to get on the internet with an ISP named Alphalink.
 
 My first "serious" PC was about a year later. I was 16, still working in the pizza shop and in year 10 at high school.
 
