@@ -55,7 +55,7 @@ Before Quake II came out in late 1997, there were only a handful of 3dfx support
 
 When I got the rig up and running I played GLQuake with glowing rockets. I never went back to software rendered quake.
 
-I purchased [shadows of the empire](https://en.wikipedia.org/wiki/Star_Wars:_Shadows_of_the_Empire_(video_game)) because it had 3dfx support an amazing opening set piece of tripping ATATs with a tow cable from the battle of hoth.
+I purchased [shadows of the empire](https://en.wikipedia.org/wiki/Star_Wars:_Shadows_of_the_Empire_(video_game)) because it had 3dfx support and an amazing opening set piece of tripping AT-ATs with a tow cable from the battle of hoth.
 
 ![](/blog/pics/shadows-of-the-empire.webp)
 
@@ -72,11 +72,11 @@ Okay, I recall playing titles with 3dfx/glide support like:
 * Need for Speed II SE
 * Tomb Raider
 
-I specifically recall Turok had great graphics (fog! bow and arrow!) and I played it a lot because of that - the gameplay itself was so so.
+I specifically recall [Turok](https://en.wikipedia.org/wiki/Turok:_Dinosaur_Hunter) had great graphics (fog! bow and arrow!) and I played it a lot because of that - the gameplay itself was so so.
 
 Eventually, Quake II game out in December 1997.
 
-I played it in 3dfx mode with colored lighting, smooth pixels, see-through water, and all was good with the world.
+I played it in 3dfx mode ([glide](https://en.wikipedia.org/wiki/Glide_(API))) with colored lighting, smooth pixels, see-through water, and all was good with the world.
 
 ![](/blog/pics/quake2-colored-lights.jpg)
 
