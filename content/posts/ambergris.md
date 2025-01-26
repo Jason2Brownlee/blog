@@ -43,7 +43,9 @@ I guess I enjoy wading through "Shriek: An Afterword", especially the ending. Bu
 
 As soon as I read "An Early History of Ambergris", I was hooked.
 
-More formally titled "_The Hoegbotton Guide to the Early History of the City of Ambergris by Duncan Shriek_"
+More formally titled:
+
+* **The Hoegbotton Guide to the Early History of Ambergris by Duncan Shriek**
 
 Here's a summary of this piece (via DeepSeek):
 
@@ -88,9 +90,7 @@ I think it was initially released as a standalone novella (or "chapbook" or some
 I see [this review](https://www.infinityplus.co.uk/nonfiction/shriek.htm) from 1999:
 
 > ...
->
 > In The Early History, VanderMeer takes the art of the footnote to new heights - indeed, perhaps half of this slim book consists of supplementary material in the form of footnotes and glossary.
->
 > ...
 
 And this cover [on goodreads](https://www.goodreads.com/book/show/135106006-the-hoegbotton-guide-to-the-early-history-of-ambergris-by-duncan-shriek):
@@ -98,6 +98,8 @@ And this cover [on goodreads](https://www.goodreads.com/book/show/135106006-the-
 ![](/blog/pics/the-hoegbotton-guide-to-the-early-history-of-ambergris.jpg)
 
 I'd love to get a physical copy of this thing one day :)
+
+(_[found a copy for $99 USD](https://a.co/d/czQykyz). Ouch. Collectors item I guess_)
 
 Finch, on the other hand is just a ripping story.
 
