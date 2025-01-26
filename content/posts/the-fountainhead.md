@@ -1,6 +1,6 @@
 ---
 date: '2025-01-22'
-title: 'A Scene From "The Fountainhead"'
+title: 'That Scene From "The Fountainhead"'
 ---
 
 I've probably read Ayn Rand's [The Fountainhead](https://www.goodreads.com/book/show/2122.The_Fountainhead) about a dozen times over the years.
