@@ -109,6 +109,6 @@ For me, it gives some answers about the gray caps and perhaps Duncan Shriek/Samu
 
 There's frequently good discussions about the implications of this book on reddit in [r/WeirdLit](https://www.reddit.com/r/WeirdLit/) and [r/SouthernReach](https://www.reddit.com/r/SouthernReach/) where I like to lurk and occasionally chime in.
 
-I've probably re-read Ambergris more hand the [southern reach/area x trilogy](https://en.wikipedia.org/wiki/Southern_Reach_Series) and I re-read that every year also.
+I've probably re-read Ambergris more than the [southern reach/area x trilogy](https://en.wikipedia.org/wiki/Southern_Reach_Series) and I re-read that every year also.
 
 

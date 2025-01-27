@@ -72,7 +72,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Jason Brownlee's Blog"
-    Content: This is probably not for you. It's a place where I can _purge distracting ideas_ and try to move on.
+    Content: "**This is probably not for you**. It's a place where I can digest, contemplate, exorcise, and purge _distracting ideas_ and then try to move on."
 
   socialIcons:
     - name: email
