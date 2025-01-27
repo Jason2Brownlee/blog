@@ -15,6 +15,8 @@ I thought it was user-focused, but his description too is engineer focused, but 
 
 I like the name, I guess.
 
+Perhaps the process of creating software this way we can call "**chat-driven programming**" and the artifacts that are a result we can call "**selfish software**", or what I have previously been calling "**disposable software**".
+
 I like the "how to start section" too.
 
 For example, this snippet on the need to re-think the approach:
@@ -28,7 +30,7 @@ The main steps:
 * Start with small pieces of “disposable software" (e.g. one-off scripts)
 * Develop personal software for ongoing use (e.g. larger projects once you have confidence + processes)
 * Maintain a playful mindset (e.g. what would make this cooler, do that)
-* Scale or don’t scale—it’s your choice (e.g. scale or stay small/personal, and that's okay)
+* Scale or don't scale—it's your choice (e.g. scale or stay small/personal, and that's okay)
 
 Nod.
 
@@ -44,7 +46,7 @@ Why talk to an LLM when it can generate a custom interface to _show you_ the ans
 
 Agree with the final point, it's about re-discovering the joy in making/creating.
 
-> Selfish software is not about ignoring user needs altogether; it’s about restoring the joy of building by making yourself the user you’re most eager to please.
+> Selfish software is not about ignoring user needs altogether; it's about restoring the joy of building by making yourself the user you're most eager to please.
 
 A nice swing-back from indie-hacking software for the market that was so popular for a decade+.
 
