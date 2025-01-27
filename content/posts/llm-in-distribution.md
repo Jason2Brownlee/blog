@@ -13,7 +13,7 @@ The big question is AI is:
 
 Naively, ~~we~~ I think **no**.
 
-But there data distribution is so vast that it's hard to see at first.
+But their data distribution is so vast that it's hard to see at first.
 
 For example, an image generation model can interpolate within the space of ~~all~~ most images on the net.
 
