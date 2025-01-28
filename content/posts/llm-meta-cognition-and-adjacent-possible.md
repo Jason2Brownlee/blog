@@ -1,6 +1,8 @@
 ---
 date: '2025-01-29T09:09:10+11:00'
 title: 'LLM Meta-Cognition and Exploring the Adjacent Possible'
+cover:
+    image: /blog/pics/Adjacent-Possible.png
 ---
 
 
@@ -176,5 +178,5 @@ Also, one step is so small. How do you know when you've got it? (you're a domain
 
 We'll all be hill climbing the adjacent possible (to local minima) for fun and profit before you know it!
 
-
+![](/blog/pics/Adjacent-Possible.png)
 
