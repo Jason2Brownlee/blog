@@ -1,15 +1,15 @@
 ---
 date: '2025-01-29T08:02:51+11:00'
-title: 'How to Learn Machine Learning Algorithms for Programmers'
+title: 'How to Learn Machine Learning Algorithms (for Programmers)'
 ---
 
-I've written a ton of books to help developers learn machine learning algorithms over the years.
+I've written a ton of tutorials and books to help developers learn machine learning algorithms over the years.
 
-It's not my area any longer, but if asked, my suggestion for a programmer that **learns via programming** is to code machine learning algorithms from scratch.
+It's not my area any longer, but if asked, my suggestion for a programmer (that **learns via programming**) is to code machine learning algorithms from scratch.
 
 Is this you? It is me. It's how I learn best.
 
-Here, I really mean we learn best by:
+Here, I really mean that we learn best by:
 
 1. reading about thing
 2. writing code for the thing
@@ -19,7 +19,7 @@ Here, I really mean we learn best by:
 
 This is how _we programmers_ learned a ton of algorithms and data structures in our CS or SWE degree, or whatever.
 
-As a pedagogy strategy, it's so much more effective than passively reading or playing with existing implementations of algorithms.
+As pedagogy, it's so much more effective than passively reading or playing with existing implementations of algorithms.
 
 Notice, youtube edutainment does not feature here at all. It's a terrible way to (deeply) learn a technical topic.
 
@@ -27,7 +27,7 @@ So, how can we learn machine learning algorithms by coding them from scratch?
 
 The zeroth order would be:
 
-* You could "implement" algorithms from scratch in a spreadsheet (e.g. google sheets)
+* You could "implement" algorithms from scratch in a spreadsheet (e.g. google sheets).
 
 The language of machine learning is Python.
 
