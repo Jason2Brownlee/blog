@@ -132,3 +132,7 @@ I'm sure people are working on this.
 
 Maybe me and my gpt4o-bro can code up a prototype on a rainy afternoon soon.
 
+Also, it occurs to me, this type of recommendation will be very useful (valuable!) in those domains where classical and collaborative filtering recommendations are not available.
+
+I guess that is what we're all doing, getting personalized recommendations on all of our little areas of interest.
+
