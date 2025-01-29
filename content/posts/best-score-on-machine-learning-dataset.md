@@ -1,6 +1,6 @@
 ---
 date: '2025-01-29T16:08:24+11:00'
-title: 'Best Score on Machine Learning Datasets'
+title: 'Best Scores on Machine Learning Datasets'
 ---
 
 For about 20 years, I've been obsessed with the idea of getting the best score for a machine learning dataset.
