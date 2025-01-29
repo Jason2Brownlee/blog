@@ -130,4 +130,5 @@ No research project needed, we have all the parts. Hook up the openai API to the
 
 I'm sure people are working on this.
 
+Maybe me and my gpt4o-bro can code up a prototype on a rainy afternoon soon.
 
