@@ -50,7 +50,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Blog"
+    text: "Home"
     icon: /blog/pics/profile_200.jpg
     iconHeight: 35
 
@@ -71,8 +71,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Jason Brownlee's Blog"
-    Content: "**This is probably not for you**. It's a place where I can digest, contemplate, exorcise, and purge _distracting ideas_ and then try to move on."
+    Title: "Consumption Exhaust"
+    Content: "Hi, I'm Jason Brownlee. This is my blog, welcome to it. **This is probably not for you**. It's a place where I can digest, contemplate, exorcise, and purge _distracting ideas_ and then try to move on."
 
   socialIcons:
     - name: email
@@ -117,12 +117,12 @@ params:
     minMatchCharLength: 0
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
-menu:
-  main:
-    - identifier: homepage
-      name: Home Page
-      url: https://JasonBrownlee.me
-      weight: 10
+# menu:
+#   main:
+#     - identifier: homepage
+#       name: Home Page
+#       url: https://JasonBrownlee.me
+#       weight: 10
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
