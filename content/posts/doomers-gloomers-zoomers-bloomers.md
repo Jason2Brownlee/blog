@@ -9,7 +9,7 @@ In an early chapter, he condenses and summarizes the main ideological AI camps i
 
 > So far, at least four key constituencies have been informing the discourse: the Doomers, the Gloomers, the Zoomers, and the Bloomers
 
-Here's a definition of each in turn (summarized by gpt4o from a quote from the book):
+Here's a definition of each in turn (summarized by gpt4o from a quote taken from the book):
 
 1. **Doomers** – People who believe AI poses an existential threat to humanity, especially if superintelligent, autonomous AI systems become misaligned with human values. They fear worst-case scenarios where AI could decide to destroy or enslave humanity. Their concerns often center on long-term risks, including AI-driven human extinction.
 
@@ -50,3 +50,45 @@ Anyway, I read that quote and pondered where I fit.
 **I guess I'm a zoomer**, perhaps with some **bloomer** leanings.
 
 In fact, the framework feels self-serving as Reid declares himself a bloomer and bloomer sounds nicer than zoomer :)
+
+Now, humans like to take things too far.
+
+What is the category before doomers and after bloomers?
+
+Pre-doomers (via gpt4o):
+
+> **The "Rejecters"** (Luddites)
+> * Belief: AI should not be developed at all—or at the very least, its use should be severely restricted or rolled back.
+> * Concerns: AI threatens human autonomy, jobs, social structures, and even our understanding of intelligence itself.
+> * View on Regulation: AI should be either banned, extremely limited, or only used in strictly controlled circumstances.
+>
+> Example Figures:
+> * Jaron Lanier (AI skeptic, critic of the dehumanization of technology)
+> * Noam Chomsky (argues that deep learning does not constitute true intelligence)
+
+Post-bloomers (via gpt4o):
+
+> **The Transcendents** (AI Symbiosis)
+> * Belief: AI will not just be a tool; it will merge with humanity, transforming intelligence and life itself.
+> * Concerns: The biggest challenge isn’t AI itself but ensuring that humans adapt to a post-AI reality.
+> * View on Regulation: We should embrace AI integration, including brain-computer interfaces and AI-augmented cognition, to evolve alongside it.
+>
+> Example Figures:
+> * Ray Kurzweil (futurist, proponent of the Singularity, believes humans and AI will merge)
+> * Elon Musk (promotes Neuralink, AI-human symbiosis)
+
+Nice!
+
+I asked gpt4o to come up with rhyming names and it gave me **roomers** for "Rejecters" and **boomers** for "Transcendents". Not good enough.
+
+Actually, going back to Reid's framework: I think it should be rank ordered by permissiveness.
+
+In that case Zoomers is more permissive than Bloomers. Their order should be flipped, for example:
+
+1. Rejecters
+2. Doomers
+3. Gloomers
+4. Bloomers
+5. Zoomers
+6. Transcendents
+
