@@ -38,7 +38,7 @@ In the end, I was way more interested in reading the forum than in submitting pr
 
 Sadly, there was very little sharing culture on kaggle in the early days, although I tried to foster it by giving away sample code, and algorithm implementations, and more back then.
 
-I've [shared this interest before](https://machinelearningmastery.com/results-for-standard-classification-and-regression-machine-learning-datasets/), long ago in another life. Five years is a long time!
+I've [shared this interest](https://machinelearningmastery.com/results-for-standard-classification-and-regression-machine-learning-datasets/) (in best scores for standard datasets) before, long ago in another life. Five years is a long time!
 
 Anyway, I was thinking about this again today.
 
