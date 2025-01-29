@@ -156,6 +156,10 @@ Am I thinking too small?
 
 I'm a simple man. Exploring the "Adjacent Possible" sounds fine+fun. I'm not building unicorns here. Nominally retired/sabbatical, remember.
 
+From Steven Johnson's "[How We Got to Now](https://www.goodreads.com/book/show/20893477-how-we-got-to-now)":
+
+> "Stay within the boundaries of your discipline, and you will have an easier time making incremental improvements, opening the doors of the adjacent possible that are directly available to you given the specifics of the historical moment. (There’s nothing wrong with that, of course. Progress depends on incremental improvements.)""
+
 What are some "map reduce + distributed computing" type ideas we can mine using o1/o3/R1/etc.?
 
 Side thought, I always felt that DeepMinds RL+Atari felt like one of these. Clever, (and they nobel-level-clevel fellows) but an adjacent first project.
