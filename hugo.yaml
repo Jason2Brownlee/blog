@@ -1,6 +1,6 @@
 baseURL: https://JasonBrownlee.me/blog
 languageCode: en-us
-title: Jason Brownlee's Blog
+title: Consumption Exhaust
 theme: PaperMod
 timeZone: "Australia/Melbourne"
 
@@ -15,11 +15,11 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Jason Brownlee's Blog
-  description: "Jason Brownlee's Blog"
-  keywords: [Blog, Jason Brownlee]
+  title: Consumption Exhaust - Jason Brownlee's Blog
+  description: "Consumption Exhaust: Jason Brownlee's Blog"
+  keywords: [Blog, Jason Brownlee, Consumption Exhaust]
   author: Jason Brownlee
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: true
@@ -72,7 +72,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Consumption Exhaust"
-    Content: "Hi, I'm Jason Brownlee. This is my blog, welcome to it. **This is probably not for you**. It's a place where I can digest, contemplate, exorcise, and purge _distracting ideas_ and then try to move on."
+    Content: "Hi, I'm **[Jason Brownlee](https://jasonbrownlee.me)**. This is my blog, welcome to it. **This is probably not for you**. It's a place where I can digest, contemplate, exorcise, and purge _distracting ideas_ and then try to move on."
 
   socialIcons:
     - name: email
