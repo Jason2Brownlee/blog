@@ -28,7 +28,7 @@ And [algorithms](https://en.wikipedia.org/wiki/Algorithm) like:
 * heap sort
 * breadth-first search
 * depth-first search
-* best-firs search
+* best-first search
 * a-star search
 * and on...
 
@@ -42,7 +42,7 @@ A lot of my subsequent work has probably being attempts to recapture this feelin
 
 Anyway...
 
-Now, I didn't "know" these algorithms and data structures as I do now. So, how did this go?
+I didn't "know" these algorithms and data structures as I do now. So, how did this go?
 
 I think it mostly involved **copying**, something like:
 
