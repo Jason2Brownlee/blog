@@ -15,6 +15,8 @@ Code, UI, and whole systems will be on-demand in many cases, and developed+maint
 
 The dream we had when we played with [genetic programming](https://en.wikipedia.org/wiki/Genetic_programming), namely [automatic programming](https://en.wikipedia.org/wiki/Automatic_programming), went from impossible, to possible seemingly overnight. We're not _there_ yet, but we're close. There are still horses on the road along side the [horseless carriages](https://en.wikipedia.org/wiki/Horseless_carriage). It's early. We're in transition.
 
+I don't believe this is late 90s .com "we're going to do everything online forever starting tomorrow" hype. The shit works and is progressively getting better.
+
 Some are in denial. I think it's [ontological shock](https://en.wiktionary.org/wiki/ontological_shock). "things are moving fast" is an understatement.
 
 Some are retreating already.
@@ -49,6 +51,8 @@ Nod.
 
 No one will want (to pay for) your/our hand-crafted artisanal code down at the farmers market in the 2030s. We need to get okay with this idea.
 
+(the comments above were on a discussion complaining about too many posts on LLMs. Using these points to motivate my rant: irony?)
+
 From our buddy, gpt4o, chatting about all this with me:
 
 > Unlike handmade shoes or clothes, which have tangible differences in comfort, durability, and style, software doesn't have an aesthetic in the same way—it's primarily valued for functionality, efficiency, and correctness. If AI-generated code is superior, hand-crafted code would mostly be redundant.
@@ -61,9 +65,9 @@ For those in the market for code to solve business problems, why would they want
 
 The analogy of "_but people buy hand-stitched jackets and handmade leather shoes and are happy to pay 10x more_" **is dead wrong**.
 
-Is someone going to value a binary compiled from handcrafted code written by a master as much as another luxury good, like a Rolex?
+Is someone going to value a binary compiled from handcrafted code written by a master as much as another luxury good, like a Rolex? High-status artisanal binaries?
 
-In most cases, this is an analogy for a luxury item in a status game. How does an intangible artifact (a binary compiled from hand crafted artisanal code) fit into status games? Maybe I don't have the imagination for the new status games that have to be invented.
+In most cases, this is an analogy for a luxury item in a status game. How does an intangible artifact (a binary compiled from hand crafted artisanal code) fit into status games? Maybe I don't have the imagination for the new status games that have to be invented. Collectors items maybe?
 
 Will there be any use for human-rolled code? A very soft "maybe", but not likely. Perhaps for extreme security or performance situations where you can't trust or rely on current-at-the-time generative AI tech?
 
