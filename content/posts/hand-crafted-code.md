@@ -11,7 +11,7 @@ There's a lot of chatter on the wild web that given LLMs can generate snippets, 
 
 We're collaborating on code for now, but that won't last. We will first alpha-go and then stockfish professional programmers out of existence.
 
-Actually, programming was always too hard to do really well anyway, right? Seriously. 10x and 100x programmers was short hand  for only 1 in 10 or 1 in 100 "trained professionals" could actually do the thing that was needed because it was so hard.
+Actually, programming was always too hard to do really well anyway, right? Seriously. 10x and 100x programmers was shorthand  for only 1 in 10 or 1 in 100 "trained professionals" could actually do the thing that was needed because it was so hard.
 
 Code, UI, and whole systems will be on-demand in many cases, and developed+maintained by LLMs in the few other cases where we need a persistent artifact.
 
