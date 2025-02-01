@@ -9,7 +9,7 @@ Like most programmers, I've been thinking a lot about the future of programming.
 
 There's a lot of chatter on the wild web that given LLMs can generate snippets, functions and even whole scripts based on prompts, and they're often very good, that we're headed to a world where human-written code may be less and less likely.
 
-We're collaborating on code for now, but that won't last. We will alphago and stockfish professional programmers out of existence.
+We're collaborating on code for now, but that won't last. We will first alpha-go and then stockfish professional programmers out of existence.
 
 Actually, programming was always too hard to do really well anyway, right? Seriously. 10x and 100x programmers was short hand  for only 1 in 10 or 1 in 100 "trained professionals" could actually do the thing that was needed because it was so hard.
 
