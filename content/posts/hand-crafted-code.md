@@ -1,6 +1,8 @@
 ---
 date: '2025-02-02T06:55:44+11:00'
 title: 'For Sale: Binaries Compiled From Hand-Crafted Artisanal Code'
+cover:
+    image: /blog/pics/Binaries-Compiled-From-Hand-Crafted-Artisanal-Code.webp
 ---
 
 Like most programmers, I've been thinking a lot about the future of programming.
