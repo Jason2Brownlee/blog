@@ -117,12 +117,17 @@ params:
     minMatchCharLength: 0
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
-# menu:
-#   main:
-#     - identifier: homepage
-#       name: Home Page
-#       url: https://JasonBrownlee.me
-#       weight: 10
+menu:
+  main:
+    - identifier: now
+      name: Now
+      url: /now
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about
+      weight: 20
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
