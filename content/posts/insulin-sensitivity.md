@@ -23,11 +23,11 @@ I have a subjective experience: **eating carbs makes me fatten, really fast**.
 
 It might even be true.
 
-I know, carbs in everything, let's go with simple carbs/starchy carbs/sugar and friends.
+I know, carbs are in everything, let's go with simple carbs/starchy carbs/sugar and friends. Junk-food at a stretch.
 
 A week abroad or at a resort with the family and eating what/when I want results in an easy 5+/kg gain when I return. Even if I do daily 5km runs.
 
-An [ad libitum](https://en.wikipedia.org/wiki/Ad_libitum) feast like Christmas or Chinese new year is dangerous and must be managed so that it does not bleed into the subsequent days, e.g. give away/throw out all "bad" leftovers or have it away from the home so someone else can deal with what's left.
+An [ad libitum](https://en.wikipedia.org/wiki/Ad_libitum) feast like Christmas or Chinese new year is dangerous and must be managed so that it does not bleed into the subsequent days, e.g. give away/throw out all "bad" leftovers or have the event away from the home so someone else can deal with what's left.
 
 Yeah, water weight, I know. But also, more.
 
