@@ -27,6 +27,8 @@ Anyway, here's my grasp of the steps:
 
 I've read the Al Ries and Jack Trout book on [positioning](https://www.goodreads.com/book/show/760025.Positioning), but Cole and his "category pirates" do a damn fine job of presenting the concept (e.g. [Snow Leopard](https://www.goodreads.com/book/show/61772680-snow-leopard)).
 
+They did positioning on "positioning", calling it "category design", a term they invented and are experts in, they "named and claimed". Win!
+
 This chapter has a terse summary of these ideas.
 
 The starting point is the [rules of ones](/blog/posts/rule-of-ones/):
@@ -116,4 +118,12 @@ No one does this, or if they do, they don't do it well.
 
 It's hard I guess.
 
-I need to re-read the category pirates books.
+I need to re-read the category pirates books, e.g. "[The 22 Laws of Category Design](https://www.goodreads.com/book/show/157555853-the-22-laws-of-category-design)".
+
+Maybe I should read "[Becoming a Category of One](https://www.goodreads.com/book/show/1590116.Becoming_a_Category_of_One)" by Joe Calloway.
+
+From his book:
+
+> Don’t strive to be a leader in your category. Create a differ- ent category, and be the only one in it. That’s the idea behind Becoming a Category of One.
+
+
