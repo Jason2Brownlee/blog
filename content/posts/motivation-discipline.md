@@ -5,7 +5,7 @@ title: 'Motivation vs Discipline Redux'
 
 I'm reading "[Tiny Habits](https://www.goodreads.com/book/show/43261127-tiny-habits)" by [B. J. Fogg](https://x.com/bjfogg).
 
-It's a classic on behavior design, and I. can't believe it took me this long to get to it.
+It's a classic on [behavior design](https://en.wikipedia.org/wiki/Behavioural_design), and I. can't believe it took me this long to get to it.
 
 I love it so far. Lots of frameworks.
 
