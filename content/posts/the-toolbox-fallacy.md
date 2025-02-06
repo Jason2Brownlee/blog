@@ -1,6 +1,6 @@
 ---
 date: '2025-02-07T05:53:55+11:00'
-title: 'The Toolbox Fallacy'
+title: 'The Toolbox Fallacy?'
 ---
 
 I did the thing I tell everyone not to do.
@@ -50,7 +50,9 @@ And a summary from our gp4o bro:
 
 Maybe.
 
-It was not: I need to read one more book on fiction writing to finally "get it".
+Also, is this a real fallacy?
+
+Anyway, for me it was not: I need to read one more book on fiction writing to finally "get it".
 
 It was was more like: **I have no idea how to do this thing, but reading about doing the thing is way easier, so do that**.
 
