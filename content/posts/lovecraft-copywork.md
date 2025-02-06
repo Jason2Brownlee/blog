@@ -3,7 +3,7 @@ date: '2025-02-06T08:30:42+11:00'
 title: 'Lovecraft Copywork'
 ---
 
-I love re-reading the short stories of H. P. Lovecraft each year.
+I love re-reading the short stories of [H. P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft) each year.
 
 Especially his best works, his classics, like:
 
