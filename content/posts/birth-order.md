@@ -30,7 +30,7 @@ I'm not alone, [this review](https://www.goodreads.com/review/show/5398942691):
 
 Ha, astrology. I love it. We both got there :)
 
-From wikipedia:
+From [wikipedia](https://en.wikipedia.org/wiki/Birth_order):
 
 > Birth order refers to the order a child is born in their family;[1] first-born and second-born are examples. Birth order is often believed to have a profound and lasting effect on psychological development
 
