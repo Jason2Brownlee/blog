@@ -5,7 +5,9 @@ title: 'Pocket Money'
 
 My eldest son is saving for a new phone.
 
-We said he could not draw upon his savings. He is putting his 2024 Christmas and 2025 Chinese New year money towards the effort.
+Apparently hand-me-down iphones don't cut it any more. Too many cracks, too slow. Whatever.
+
+We said he could not draw upon his savings, they're for a first car, or something. As such, he is putting his 2024 Christmas and 2025 Chinese New year money towards this new effort.
 
 He also worked during the summer for his grandparents (washed windows) and great-auntie (front of shop in a cafe).
 
@@ -64,7 +66,7 @@ Without being too direct, I was thinking that a _sport coaching_ or _academic tu
 * Word of mouth marketing through the parent community
 * Productize later if successful (flashcards, workbook, video course, etc.)
 
-He's 13.... he'll probably start a youtube channel and burn a year.
+He's 13.... he'll probably start a youtube/twitch channel and burn a year.
 
 He has an entrepreneurial friend that is trying to get him to buy into his discord/aimbot/roblox/something-something "business"... It might be a trap.
 
