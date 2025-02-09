@@ -12,7 +12,7 @@ Some highlights I enjoyed reading:
 * [Did type-in-programs or type-in-listings teach programming in the 70s and 80s or was it just tedious typing of the source code?](https://retrocomputing.stackexchange.com/questions/27370/did-type-in-programs-or-type-in-listings-teach-programming-in-the-70s-and-80s-or)
 * [Is there any hard data about type-in programs in the 80s?](https://retrocomputing.stackexchange.com/questions/23566/is-there-any-hard-data-about-type-in-programs-in-the-80s)
 * [Anyone else here get started by typing in BASIC programs from Enter Magazine back in the early 80's?](https://www.reddit.com/r/programming/comments/ci5ta/anyone_else_here_get_started_by_typing_in_basic/)
-* [Easy type-in software for a BASIC demonstration](https://www.reddit.com/r/c64/comments/ut8vpc/easy_typein_software_for_a_basic_demonstration/
+* [Easy type-in software for a BASIC demonstration](https://www.reddit.com/r/c64/comments/ut8vpc/easy_typein_software_for_a_basic_demonstration/)
 * And on...
 
 Great stuff.
@@ -47,4 +47,4 @@ Some benefits from gpt4o:
 
 Great!
 
-I don't think this is appreciated fully by newer "youtube" programmers.
+I don't think this is appreciated fully by newer youtube and stackoverflow "_programmers_".
