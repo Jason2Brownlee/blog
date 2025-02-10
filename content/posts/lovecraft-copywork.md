@@ -54,7 +54,9 @@ Here's a screenshot of me doing copywork for Dagon:
 
 Here's the link:
 
-* [LovecraftCopywork](https://jasonbrownlee.me/LovecraftCopywork/)
+* ~~LovecraftCopywork~~
+
+**UPDATE**, Move to here: [LovecraftCopywork.com](https://LovecraftCopywork.com/)
 
 It was fun to make.
 
