@@ -47,9 +47,41 @@ Good reasons.
 
 Good stuff!
 
+## o1:
+
+The focus of o1 was also paragraphs, might be a factor of the prompt being used.
+
+Here's what I got from o1:
+
+**Passage 1**
+
+> I am writing this under an appreciable mental strain, since by tonight I shall be no more. Penniless, and at the end of my supply of the drug which alone makes life endurable, I can bear the torture no longer; and shall cast myself from this garret window into the squalid street below. Do not think from my slavery to morphine that I am a weakling or a degenerate. When you have read these hastily scrawled pages you may guess, though never fully realise, why it is that I must have forgetfulness or death.
+
+Reason: This opening sets the desperate, confessional tone of the narrator and immediately establishes the story’s atmosphere of doom, fear, and personal torment.
+
+**Passage 2**
+
+> Though one might well imagine that my first sensation would be of wonder at so prodigious and unexpected a transformation of scenery, I was in reality more horrified than astonished; for there was in the air and in the rotting soil a sinister quality which chilled me to the very core. The region was putrid with the carcasses of decaying fish, and of other less describable things which I saw protruding from the nasty mud of the unending plain. Perhaps I should not hope to convey in mere words the unutterable hideousness that can dwell in absolute silence and barren immensity. There was nothing within hearing, and nothing in sight save a vast reach of black slime; yet the very completeness of the stillness and the homogeneity of the landscape oppressed me with a nauseating fear.
+
+Reason: Lovecraft’s use of vivid, unsettling description creates a sense of claustrophobic dread and hints at the vast cosmic horror lurking just beyond sight.
+
+**Passage 3**
+
+> Then suddenly I saw it. With only a slight churning to mark its rise to the surface, the thing slid into view above the dark waters. Vast, Polyphemus-like, and loathsome, it darted like a stupendous monster of nightmares to the monolith, about which it flung its gigantic scaly arms, the while it bowed its hideous head and gave vent to certain measured sounds. I think I went mad then.
+
+Reason: Here, the shock of encountering an impossible, towering monstrosity showcases Lovecraft’s hallmark technique: mixing the unimaginable with a stark sense of terror, driving the narrator into madness.
+
+
+
+
+
+
+
+
+
 ## o3-mini:
 
-Interstingly, o3 followed instructions better and pulled out specific sub-paragraph passages.
+Interestingly, o3 followed instructions better and pulled out specific sub-paragraph passages.
 
 Here's what I got from o3:
 
@@ -74,5 +106,9 @@ Reason: This concise passage captures the climactic emergence of the cosmic horr
 
 Very cool.
 
-I love this!
+Overlap with o1. Is this because the prose fits the request or because the o1 and o3 models were trained similarly?
+
+Anyway, I love this!
+
+
 
