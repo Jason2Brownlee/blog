@@ -17,7 +17,7 @@ It got me thinking:
 
 And:
 
-> I'd live a tiny book on the magic of compounding.
+> I'd LOVE a tiny book on the magic of compounding.
 
 I was thinking a whole lot of stuff to help hammer home the point.
 
