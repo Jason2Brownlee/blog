@@ -125,7 +125,7 @@ Fascinating.
 
 And border science?
 
-Perhaps its a points of transition.
+Perhaps it's a point of transition.
 
 Again, from chatting with claude:
 
