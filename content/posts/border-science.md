@@ -17,7 +17,9 @@ Wikipedia says [Pseudoscience](https://en.wikipedia.org/wiki/Pseudoscience) is s
 
 > Pseudoscience consists of statements, beliefs, or practices that claim to be both scientific and factual but are incompatible with the scientific method.
 
-Wikipedia has "[Fringe Science](https://en.wikipedia.org/wiki/Fringe_science)" which seems different again, e.g. fake science.
+## Fringe Science
+
+Wikipedia has something called "[Fringe Science](https://en.wikipedia.org/wiki/Fringe_science)" which seems different again, e.g. fake science.
 
 > Fringe science refers to ideas whose attributes include being highly speculative or relying on premises already refuted. Fringe science theories are often advanced by people who have no traditional academic science background, or by researchers outside the mainstream discipline.
 
@@ -55,6 +57,8 @@ And gpt4o:
 
 Fair enough.
 
+## Border Science
+
 They both go on to suggest that border science sits between accepted science and border science.
 
 From claude:
@@ -85,4 +89,86 @@ So border science are fields that could be science, are probably not, probably e
 
 And pseudoscience is unambiguously garbage - yet hangs on with lay-peoples :)
 
-Before all the low hanging fruit was picked (last 150 years) most things were probably fringe science, until they were figured out. The effects of electricity and magnetism are pretty wild and the cool kids were playing with it in their basements in the 19th century.
+## Fringe Science First
+
+Before all the low hanging fruit was picked (last 150 years) most things were probably fringe science, until they were figured out.
+
+The effects of electricity and magnetism are pretty wild and the cool kids were playing with it in their basements in the 19th century.
+
+Checking in with Claude, some 19th century hypotheses that were fringe that later became legit:
+
+> * **Continental Drift/Plate Tectonics**: Wegener's hypothesis (1912) that continents move was ridiculed for decades before becoming fundamental to geology
+> * **Germ Theory**: Initially controversial when proposed by Semmelweis and others, faced strong opposition from medical establishment
+> * **Mendel's Laws of Inheritance**: Largely ignored in his lifetime, later became foundation of genetics
+> * **Atomic Theory**: While atoms were theorized earlier, the modern atomic theory was controversial through much of the 19th century
+> * **Thermodynamics**: The conservation of energy was initially met with skepticism
+> * **Deep Geological Time**: The idea Earth was millions of years old faced religious and scientific opposition
+
+And some that became pseudoscience:
+
+> * **Phrenology**: Reading personality traits from skull bumps, initially considered scientific
+> * **Mesmerism**: Animal magnetism theory, some aspects evolved into hypnosis research while others became pseudoscience
+> * **Spiritualism**: Initially presented with scientific trappings and investigated by some scientists
+> * **Vitalism**: The belief that living things contained a non-physical element that gave them life
+> * **Physiognomy**: Judging character from facial features
+> * **Miasma Theory**: Belief that diseases spread through bad air rather than germs
+> * **N-rays**: Claimed new form of radiation, later thoroughly debunked
+> * **Telegony**: Belief that offspring could inherit characteristics from previous mates of the mother
+
+And split cases, e.g. parts became accepted science and parts became bunk:
+
+> * **Hypnosis**: Parts became legitimate medical practice, other claims remained pseudoscience
+> * **Telepathy research**: Some became early psychology experiments, while other aspects became pseudoscience
+> * **Electromagnetic theories of life**: Some concepts evolved into legitimate bioelectricity research, while others became pseudoscience
+
+Fascinating.
+
+And border science?
+
+Perhaps its a points of transition.
+
+Again, from chatting with claude:
+
+> Most theories that became mainstream science passed through a "border science" phase where:
+>
+> * They had some empirical evidence but not enough for full acceptance
+> * Used scientific methods but challenged existing paradigms
+> * Had both serious scientific proponents and skeptics
+>
+> ...Theories that became pseudoscience often skipped the border science phase or failed during it...
+
+## German Fringe Science
+
+So why did the book use "border science"?
+
+It seems there is a German word for this:
+
+* Grenzwissenschaft
+
+It [translates to](https://translate.google.com/?sl=de&tl=en&text=Grenzwissenschaft) "intermediate science" or "fringe science" or "border science".
+
+Nod.
+
+From claude:
+
+> This usage of "border science" (Grenzwissenschaft in German) in the context of pre-WWII and Nazi Germany reflects a specific historical and cultural phenomenon.
+>
+> * Many German universities and research institutes had departments or programs dedicated to studying phenomena that straddled conventional science and occult/paranormal topics
+> * These were often called "Grenzwissenschaftliche Institutes" (Border Science Institutes)
+> * They investigated topics like telepathy, dowsing, and "world ice theory" using supposedly scientific methods
+
+Hehe, "Border Science Institutes".
+
+And:
+
+> * There was a strong tradition in German-speaking countries of trying to bridge rational/scientific approaches with mystical/spiritual ones
+> * This reflected broader cultural movements like German Romanticism and Naturphilosophie
+> * Many German scientists and intellectuals saw no sharp division between "legitimate" science and paranormal research
+
+I love it. Great scifi fodder.
+
+So "border" was chosen carefully to indicate the attempt to have a foot in both words, e.g. "modern science" and "occult crap" + "stuff we're not sure about yet but is also probably crap".
+
+
+
+
