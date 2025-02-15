@@ -137,7 +137,7 @@ Again, from chatting with claude:
 >
 > ...Theories that became pseudoscience often skipped the border science phase or failed during it...
 
-## German Fringe Science
+## German Border Science
 
 So why did the book use "border science"?
 
