@@ -11,11 +11,11 @@ I finished reading "[Anything You Can Imagine](https://www.goodreads.com/book/sh
 
 Great book. Great movies, seen them many times.
 
-But I'm re-watching them now after having read a deep dive into how hard they were to make and they are so much better.
+I've stared re-watching them now after having read a deep dive into how hard they were to make. The movies are so much better.
 
 Also, it's probably been a decade since my last watch.
 
-But, the depth beyond the making of makes watching scenes so much more impactful. More emotional.
+But, the added depth makes watching scenes so much more impactful. More emotional.
 
 Just a better all round experience.
 
