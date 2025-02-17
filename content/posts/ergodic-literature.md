@@ -1,6 +1,6 @@
 ---
 date: '2025-02-18T07:59:16+11:00'
-title: 'Metafiction'
+title: 'Metafiction? Ergodic Literature? Multimodal Fiction?'
 ---
 
 I was talking with LLMs about fiction that I might like to write.
