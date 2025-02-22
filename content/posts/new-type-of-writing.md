@@ -5,7 +5,7 @@ cover:
     image: /blog/pics/Just-in-Time-Ghostwriting.webp
 ---
 
-I'm writing a novella. Fiction.
+I'm writing a novella. Fiction. I'm sure you can [guess the genre](/blog/posts/ergodic-literature/).
 
 And I'm leaning heavily on LLMs.
 
