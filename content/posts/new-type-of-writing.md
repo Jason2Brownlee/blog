@@ -1,6 +1,8 @@
 ---
 date: '2025-02-23T09:20:11+11:00'
 title: 'A New Type of Writing? "Just-in-Time Ghostwriting"'
+cover:
+    image: /blog/pics/Just-in-Time-Ghostwriting.webp
 ---
 
 I'm writing a novella. Fiction.
@@ -130,3 +132,4 @@ Is that what makes it non-slop? Markers that "hard work" was required to make th
 
 Back to work slacker.
 
+![](/blog/pics/Just-in-Time-Ghostwriting.webp)
