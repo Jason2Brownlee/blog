@@ -9,7 +9,9 @@ Weights and cardio, interleaved.
 
 It's good for now, I feel/look better, but really it's for the future.
 
-After each workout I feel like I am making a deposit in my saving account. I'm building strength, excess capacity, that will help me over the decades to come, as long as I stick with it.
+After each workout I feel like I am making a deposit in my saving account (e.g. ideas like [hormesis](https://en.wikipedia.org/wiki/Hormesis) and [antifragility](https://en.wikipedia.org/wiki/Antifragility) and to a less degree [post-traumatic growth](https://en.wikipedia.org/wiki/Post-traumatic_growth)).
+
+I'm building strength, excess capacity, that will help me over the decades to come, as long as I stick with it.
 
 These deposits will buy me 1) more and 2) heather years at the tail end of things.
 
