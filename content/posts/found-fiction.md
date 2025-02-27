@@ -68,17 +68,17 @@ What exactly do they say at the beginning, e.g. "I didn't write this" as a conce
 
 Let's take a look at some that have introductions, most don't. They either dive into the first document (e.g. Frankenstein, The Martian, Carrie, Bats of the Republic, Night Film, ...) or they dive into the first person narrative (World War Z, The Historian, The Raw Shark Texts, ...).
 
-Dracula (journal entries).
+**Dracula** (journal entries).
 
 > How these papers have been placed in sequence will be made manifest in the reading of them. All needless matters have been eliminated, so that a history almost at variance with the possibilities of later-day belief may stand forth as simple fact. There is throughout no statement of past things wherein memory may err, for all the records chosen are exactly contemporary, given from the standpoints and within the range of knowledge of those who made them.
 
-House of Leaves (manuscript with footnotes)
+**House of Leaves** (manuscript with footnotes)
 
 > The first edition of House of Leaves was privately distributed and did not contain Chapter 21, Appendix II, Appendix III, or the index. Every effort has been made to provide appropriate translations and accurately credit all sources. If we have failed in this endeavor, we apologize in advance and will gladly correct in subsequent printings all errors or omissions brought to our attention. - The Editors
 
 Very nice!
 
-The Unauthorised Biography of Ezra Maas (manuscript, footnotes):
+**The Unauthorised Biography of Ezra Maas** (manuscript, footnotes):
 
 > The following biography was completed without the authorisation of the Maas Foundation. Enquiries about Ezra Maas should be directed to: www.ezramaas.com. All persons, living and dead, are purely coincidental.
 
@@ -94,11 +94,11 @@ This was the beginning of the "forward" written by "Anonymous.
 
 I love this. Great job.
 
-The Supernatural Enhancements (letters and journal):
+**The Supernatural Enhancements** (letters and journal):
 
 > The following collection of documents details the events that occurred at Axton House, 1 Axton Road, Point Bless, Virginia, during the months of November and December of 1995. The footnotes are the editor’s only contribution. The first page is missing.
 
-Exegesis (emails).
+**Exegesis** (emails).
 
 Opens with a letter from the main character:
 
@@ -118,7 +118,17 @@ Opens with a letter from the main character:
 
 This is followed by an affidavit. Very cool.
 
-The Last Days of Jack Sparks (letters and such): A letter from his brother.
+**The Last Days of Jack Sparks** (letters and such):
+
+A letter from his brother.
+
+> ...I am only too aware that Jack’s final book, which he originally intended to be called Jack Sparks on the Supernatural, has been controversial from the moment its release was announced.
+>
+> [...]
+>
+> While co-editing this book, Eleanor and I have corrected only small, inconsequential typos and errors, while vitally retaining the format and feel of Jack’s writing, especially in the book’s second half, when it becomes very different. Dividing the book into two sections was our decision. To her eternal credit, Eleanor supported my push to retain Jack’s written notes directed at her, which are peppered throughout his text...
+
+Very nice.
 
 And on.
 
