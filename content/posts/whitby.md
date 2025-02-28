@@ -15,7 +15,7 @@ Oh man.
 
 He's found a horrible mural panted on a wall up there with the faces of the staff. He's also found a sleeping bag like someone is spending a lot of time up there.
 
-Control suspects it's Whitby. The mild mannared scientist whose been acting really strange of late.
+Control suspects it's Whitby. The mild mannered scientist whose been acting really strange of late.
 
 > ...On the floor opposite him, near the right-hand shelves, a trowel, a selection of paints, a stand that allowed Whitby to reach the ceiling. A few books. A portable stove. A sleeping bag, bundled up. Had Whitby been living here?
 
@@ -27,7 +27,7 @@ WTF!
 
 > ...Control had been standing there with his back to the shelves for only about a minute.
 >
-> He had been standing there recognizing that there was a draft in the loft. He had been standing there without realizing that it wasn’t a draft.
+> He had been standing there recognizing that there was a draft in the loft. He had been standing there without realizing that it wasn't a draft.
 >
 > Someone was breathing, behind him.
 >
@@ -55,7 +55,7 @@ But he's a fucking lunatic for just sitting in a bookshelf. Watching.
 
 And then:
 
-> ...Then there was a slight movement and Whitby’s hand came to rest on the back of his head. Just resting there, palm flat against Control’s hair. The fingers spread like a starfish and slowly moved back and forth. Two strokes. Three. Petting Control’s head. Caressing it in a gentle, tentative way.”
+> ...Then there was a slight movement and Whitby's hand came to rest on the back of his head. Just resting there, palm flat against Control's hair. The fingers spread like a starfish and slowly moved back and forth. Two strokes. Three. Petting Control's head. Caressing it in a gentle, tentative way.
 >
 > Control remained still. It took an effort.
 
