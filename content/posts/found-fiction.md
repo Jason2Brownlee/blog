@@ -78,6 +78,8 @@ Let's take a look at some that have introductions, most don't. They either dive 
 
 Very nice!
 
+A classic.
+
 **The Unauthorised Biography of Ezra Maas** (manuscript, footnotes):
 
 > The following biography was completed without the authorisation of the Maas Foundation. Enquiries about Ezra Maas should be directed to: www.ezramaas.com. All persons, living and dead, are purely coincidental.
