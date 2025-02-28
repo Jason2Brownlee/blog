@@ -31,9 +31,9 @@ WTF!
 >
 > Someone was breathing, behind him.
 >
-> Someone was breathing on his neck. The knowledge froze him, froze the cry of “Jesus fuck!” in his throat.”
+> Someone was breathing on his neck. The knowledge froze him, froze the cry of “Jesus fuck!” in his throat.
 
-It's that "“Jesus fuck!".
+It's that "Jesus fuck!".
 
 Right on.
 
@@ -65,6 +65,6 @@ Anyway.
 
 Read the book.
 
-Read the series.
+Read [the series](https://www.goodreads.com/series/112239-southern-reach).
 
-Read the new one (Absolution) with lots more Whitby in it.
+Read the new one ([Absolution](https://www.goodreads.com/book/show/210367505-absolution)) with lots more Whitby in it.
