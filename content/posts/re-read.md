@@ -44,6 +44,6 @@ The context above was scifi, but some non-fiction slipped in.
 
 There's also a ton of business and writing books I re-read often. Typically at the start of a project - to fire me up.
 
-I also re-brainwash myself using nook on topics like health and investing.
+I also re-brainwash myself using books on topics like health and investing.
 
-Perhaps they're books lists for another time.
+Perhaps these are books lists for another time.
