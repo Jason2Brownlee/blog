@@ -15,4 +15,6 @@ The rationale is that AI is already influencing human thought, creativity, commu
 
 Good reasoning. I agree.
 
-But by that reasoning, the slow ramp started decades ago.
+But by that reasoning, the long ramp started decades ago.
+
+I guess we're going exponential soon-ish.
