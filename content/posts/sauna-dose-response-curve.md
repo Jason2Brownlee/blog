@@ -116,7 +116,7 @@ If you stay in the sauna for a long time you will live forever.
 
 Na, 20 mins is fine I guess.
 
-What we need is better data! Controlled experiments, put humans in cages for their entire lives, randomize everything else and dose with specific sauna sessions/minutes. Super easy, right :)
+What we need is better data! Controlled experiments, put humans in cages for their entire lives, randomize everything else and dose with specific sauna sessions/minutes. Super easy, right :|
 
 It's probably bunk.
 
@@ -130,4 +130,5 @@ Selection bias. [Healthy user bias](https://en.wikipedia.org/wiki/Healthy_user_b
 
 Sauna might do nothing other than collect these people.
 
+I guess I'm one of them :)
 
