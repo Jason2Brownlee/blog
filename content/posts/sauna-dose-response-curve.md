@@ -5,7 +5,7 @@ title: 'Sauna Dose-Response Curve'
 
 I was thinking about how sauna is supposed to reduce all cause morality, according to some random paper.
 
-I asked GPT DeepResearch to find the paper and summarize the data.
+I asked GPTSearch to find the paper and summarize the data.
 
 We found:
 
@@ -13,7 +13,7 @@ We found:
 
 (I didn't read the paper, the numbers below could be hallucinated, I'm just having fun this morning)
 
-Summarized by DeepResearch:
+Summarized by GPTSearch:
 
 >**Data Summary:**
 >
@@ -117,3 +117,17 @@ If you stay in the sauna for a long time you will live forever.
 Na, 20 mins is fine I guess.
 
 What we need is better data! Controlled experiments, put humans in cages for their entire lives, randomize everything else and dose with specific sauna sessions/minutes. Super easy, right :)
+
+It's probably bunk.
+
+A sauna is probably a concentrated collection of people that follow rules.
+
+They are able to turn up 5 days a week and sit somewhere super-uncomfortable for 20+ minutes.
+
+They probably also exercise, eat right, and do all the other things people tell them to do to be healthy.
+
+Selection bias. [Healthy user bias](https://en.wikipedia.org/wiki/Healthy_user_bias). And on.
+
+Sauna might do nothing other than collect these people.
+
+
