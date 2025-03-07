@@ -4,22 +4,14 @@ title: 'Now'
 
 ## What am I doing right now?
 
-I am trying to figure out my next move.
+Working with LLMs a lot, all day, for everything.
 
-Sabbatical, I guess.
+Building things. Writing things. "Talking" through things.
 
-I'm chewing on how LLMs intersect/disrupt the things I like to do/create and how to integrate and move forward.
-
-Some motivating questions:
-
-* Can I still have "my own thoughts" and write them down?
-* What does "programming" mean/look like now?
-* What might "code tutorials" or "algorithm tutorials" look like now?
-* Do programmers still want to do "copywork" to learn algorithms and data structures?
-* Is there a cool technical topic I can obsess about for a few years?
+I'm also writing a piece of fiction, dressed as non-fiction. I will probably publish it under a pen name. Maybe in a decade or two, I'll write something worth reading.
 
 ---
-Last updated: February 03 2025.
+Last updated: March 08 2025.
 
 [What is a "now" page?](https://nownownow.com/about)
 
