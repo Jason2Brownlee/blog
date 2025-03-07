@@ -1,6 +1,6 @@
 ---
 date: '2025-03-08T06:09:31+11:00'
-title: 'Midnight Mass'
+title: 'Angel in the Desert (Midnight Mass)'
 ---
 
 The Netflix mini-series [Midnight Mass](https://en.wikipedia.org/wiki/Midnight_Mass_(miniseries)) was fun.
