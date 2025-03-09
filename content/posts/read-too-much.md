@@ -11,7 +11,7 @@ Now, he's a hard scientist and pretty critical, but he still says wild shit.
 
 But rather than get all riled up, I just shrug. In fact, I'd be happy to read more of his books.
 
-I see it all as entertainment. Something to consume. It may as well be a scifi book.
+I see it all as entertainment. Something to consume and think about. It may as well be a scifi book.
 
 In fact, that is exactly how I was thinking of it, as a cool "fiction dressed as non-fiction".
 
