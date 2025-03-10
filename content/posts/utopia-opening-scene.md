@@ -13,7 +13,7 @@ It's probably the opening scene of the first episode that really hooked me.
 
 The two killers (Arby and Lee) let themselves into a closed comic book shop. One (Arby) asks the clerk questions, the other (Lee) calmly walks from person to person, killing them.
 
-Here's a still of Lee walking into the slosed store, as shot from the back of the store next to the Clerk:
+Here's a still of Lee walking into the closed store, as shot from the back of the store next to the Clerk:
 
 ![](/blog/pics/utopia-opening.jpg)
 
@@ -48,11 +48,11 @@ NO! NO! NO! Run! There is no way in the world we should believe him.
 
 He just, one moment ago, caved in someones head with a lead pipe.
 
-The blond man allows Lee to put the mask over his face, he breathes in the gas with deep breaths.
+The blond man allows Lee to put the mask over his face, he breathes in the gas deeply.
 
 Arby and Lee finish their talk and Lee walks over to the clerk.
 
-We look over the blond man on the ground, eyes wide open. Clearly dead. Not asleep.
+We look over to the blond man on the ground, eyes wide open. Not asleep. Clearly dead.
 
 The Clerk should scream and run away.
 
@@ -62,19 +62,23 @@ Lee says:
 
 > "It's just gas. You've gotta sleep."
 
-Lee puts the mask over the face of the Clerk and dispatches him too.
+The clerk KNOWS he is not going to sleep. He will be killed.
+
+Yet, Lee puts the mask over the face of the Clerk and dispatches him too.
 
 End it there, it's shocking. But no. We're not done.
 
-Before the scene ends, we see a kid under one of the tables. We had all missed him.
+Before the scene ends, we see a kid under one of the tables. We all had missed him.
 
 Arby says:
 
 > Don't put the gas away yet.
 
-No! Oh man. Holy crap.
+End scene.
 
-So intense. It's an overload.
+What? No! Oh man. Holy crap!
+
+It's so intense. It's an overload.
 
 How does [Dennis Kelly](https://en.wikipedia.org/wiki/Dennis_Kelly), the writer, think of this stuff?
 
