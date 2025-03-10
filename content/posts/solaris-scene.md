@@ -95,6 +95,9 @@ This warning is made to Kris by Gibarian in my copy of the book, but he does not
 > "But you are dead . . ."\
 > "Don't let that worry you. You recognize my voice, don't you?"\
 > "Yes. Why did you kill yourself?"
+> ...
+
+And on.
 
 Anyway, why is this exchange (from the movie) so great?
 
