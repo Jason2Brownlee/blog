@@ -9,17 +9,19 @@ It's really fun. But they are way too nice.
 
 I upload the entire text, give them a detailed persona and books they like that are like my story and then ask for good/bad/etc feedback on each part/act/chapter/etc.
 
-The persona's are coarse-grained. More "people who like these books and movies..." rather than a specific personal history.
+The personas are coarse-grained. More "people who like these books and movies..." rather than a specific personal history.
 
 I used thinking models, specifically I tried grok3+thinking and gpto1.
 
-They so many nice things, it's hard to focus on what they think needs work. I need to turn up the critical, and make the feedback more specific.
+They say so many nice things ("oh wow, you really like it?"), it's hard to focus on what they think needs work. I need to turn up the critical, and make the feedback more specific.
 
 Thankfully, I can ask another chat instance about how to do that :)
 
 There are many things to try.
 
 The first thing is to get more feedback on things I know have a problem, based on a gut reaction from a fresh read-through.
+
+I am beta reader #1, and I know exactly when something is not right or boring or confusing. I start skimming. [Cut (or change) the boring](/blog/posts/remove-boring/).
 
 Next, a good piece of advice is to ask about specific structural elements:
 
