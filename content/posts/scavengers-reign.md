@@ -27,5 +27,6 @@ It also gives me vibes of the [Tales from the Loop](https://www.goodreads.com/se
 
 The creators should get all the money and make as much of it as they want.
 
-My god, its good.
+It's a terrible shame there will be no season 2, and very cool that the creators [released the teaser](https://www.youtube.com/watch?v=kSEPJ9OtQb8).
 
+My god, its good.
