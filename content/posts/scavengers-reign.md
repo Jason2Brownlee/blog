@@ -30,3 +30,5 @@ The creators should get all the money and make as much of it as they want.
 It's a terrible shame there will be no season 2, and very cool that the creators [released the teaser](https://www.youtube.com/watch?v=kSEPJ9OtQb8).
 
 My god, its good.
+
+A masterpiece! I'm so happy it exists in the world.
