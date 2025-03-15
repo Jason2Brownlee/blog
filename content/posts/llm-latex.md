@@ -21,7 +21,7 @@ I try prompts like
 
 And:
 
-> "suggest a tweak the geometry that gives me more space for content but is still very professional looking"
+> "suggest a tweak to the geometry that gives me more space for content but is still very professional looking"
 
 I also tried:
 
@@ -35,7 +35,9 @@ My book has extensive footnotes, so I asked:
 
 So good!
 
-Professional is key. Paperbacks built from LaTeX always look good, but they look like LaTeX books to those that know.
+"**Professional**" is key here, because I self-publish and self-published books typically look bad.
+
+Paperbacks built from LaTeX always look good, but they look like LaTeX books to those that know.
 
 A few little tweaks and you can get something that looks very professional, and the LLMs know how.
 
