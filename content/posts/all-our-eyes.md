@@ -23,6 +23,16 @@ Here's the cover:
 
 [![All Our Eyes](/blog/pics/All-Our-Eyes-Cover.png)](https://amzn.to/4iyT4WS)
 
+Here are the keywords I chose for it:
+
+* Cosmic Horror
+* Psychological Thriller
+* Australian Outback Mystery
+* Ancient Aboriginal Lore
+* Archaeological Horror
+* Supernatural Suspense
+* Found Footage
+
 It is fiction dressed up as non-fiction.
 
 I nominally wrote it for my 13 y/o son, who loves reading epistolary books, especially [The Illuminae Files](https://www.goodreads.com/series/116078-the-illuminae-files).
@@ -61,7 +71,7 @@ Here's the blurb:
 
 **Back Cover Author Info:**
 
-> J. D. Brownlee never planned to publish this book. A reluctant publisher known for technical guides, Brownlee was pulled into the Jindee mystery when an anonymous researcher—known only as ResearcherB—sent him a manuscript. Compiled from the archived blog posts of journalism student Evan Marshall and the investigative notes of the JindeeMystery wiki contributors**, the document unravelled a chilling tale Brownlee couldn't ignore.
+> J. D. Brownlee never planned to publish this book. A reluctant publisher known for technical guides, Brownlee was pulled into the Jindee mystery when an anonymous researcher—known only as ResearcherB—sent him a manuscript. Compiled from the archived blog posts of journalism student Evan Marshall and the investigative notes of the JindeeMystery wiki contributors, the document unravelled a chilling tale Brownlee couldn't ignore.
 
 It was a lot of fun to write and I learned a lot.
 
