@@ -61,7 +61,7 @@ And, the damage goes on afterward, Control mentions bits and pieces later:
 
 Vandermeer is so very good. Or I am addicted.
 
-Reminds me of "no answers, only choices](/blog/posts/solaris-scene/)" from Solaris.
+Reminds me of "[no answers, only choices](/blog/posts/solaris-scene/)" from Solaris.
 
 I love Authority. It might be my favourite from the series. Controversial, I know.
 
