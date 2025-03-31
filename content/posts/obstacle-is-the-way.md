@@ -21,7 +21,7 @@ Some examples I and struggling with:
 
 - The guy at the gym who smells like he has never showered, that can be sensed from across the room, does not ruin the workout, he is part of the workout.
 - The woman who clears her throat loudly and uncovered every 10 seconds, whose sound cuts through my headphones, does not ruin the workout, she is part of the workout.
-- The grandma who yells in Cantonese to her friends in the signed quiet area and rebuffs all shushing does not ruin the sauna session, she is part of the sauna session.
+- The grandma who yells to her friends in the signed quiet area and rebuffs all shushing does not ruin the sauna session, she is part of the sauna session.
 
 These annoyances are an opportunity to improve the activity, to make it harder.
 
