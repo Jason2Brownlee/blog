@@ -41,7 +41,7 @@ He must have seen it other times, as he said he tried to spear it:
 
 > “When alone, I several times attempted to spear a **Bunyip**; but, had the natives seen me do so, it would have caused great displeasure. And again, if I had succeeded in killing, or even wounding one, my own life would probably have paid the forfeit—they considering the animal, as I have already said, something supernatural.”
 
-The book was written in the 1950s, 15 years after Buckley re-entered society. There had already been Bunyip talk in the Geelong area for some time, and this Bunyip talk was probably added by the writer (John Morgan) to get more book sales. It worked.
+The book was written in the 1950s, 15 years after Buckley re-entered society. There had already been Bunyip talk in the Geelong area for some time (perhaps 12 years), and this Bunyip talk was probably added to the book by the writer (John Morgan) to get more book sales. It worked.
 
 Great book. Amazing insights into life among the aboriginals in the early 1800s before they and their way of life were decimated by settlers.
 
