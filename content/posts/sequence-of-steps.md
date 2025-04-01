@@ -7,9 +7,9 @@ cover:
 
 My eldest practices [sabre fencing](https://en.wikipedia.org/wiki/Sabre_(fencing)) and the competitions can be quite brutal.
 
-A "fight" is basically a dual. And they have to do this again and again through a competition day. Hard stuff.
+A "bout" is basically a dual. Hard physically and emotionally.
 
-Many of the kids are roughly equally skilled and it often comes down to mindset on the day.
+Many of the kids are roughly equally skilled and it often comes down to mindset on the day. Like most competitions, I would expect.
 
 Here's a cool pic [from wikipedia](https://en.wikipedia.org/wiki/Sabre_(fencing)#/media/File:Reshetnikov_v_Dolniceanu_2013_Fencing_WCH_SMS-IN_t192032.jpg):
 
