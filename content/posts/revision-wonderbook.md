@@ -27,7 +27,7 @@ And we have to do this under maximum self-loathing and we must use the delete ke
 
 Everything I write so very bad, which is good. I can tell, I can detect it, there is some level of taste operating and a gap between this taste and the skill of word generation. Close the gap.
 
-Reminds me of Ira Glass: (quote butchery and emphasis mine)
+Reminds me of [Ira Glass on taste](https://www.goodreads.com/quotes/309485-nobody-tells-this-to-people-who-are-beginners-i-wish): (quote butchery and emphasis mine)
 
 > ...All of us who do creative work, we get into it because we have good taste. **But there is this gap.** For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. [...] We know our work doesn’t have this special thing that we want it to have.  [...] **It is only by going through a volume of work that you will close that gap, and your work will be as good as your ambitions**...
 
