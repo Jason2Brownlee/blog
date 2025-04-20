@@ -21,7 +21,9 @@ A rough quote transcribed from the auto-generated subtitles:
 
 Fun.
 
-Intimately, I get visions from the stargate movie, of pulling the ring out of the desert in Egypt :)
+Real? Almost certainly not. But great story telling.
+
+I get visions from the stargate movie, of pulling the ring out of the desert in Egypt :)
 
 ![](/blog/pics/Stargate-Egypt.webp)
 
