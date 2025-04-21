@@ -35,7 +35,7 @@ Here's the blurb from the back cover:
 >
 > Perfect for fans of The Shadow over Innsmouth and The Secret History, this gripping tale weaves verifiable historical events with unsettling speculation, inviting readers to question what lies beneath the surface of the bay and of reality itself.
 
-It's not bad.
+It's not bad. Actually, I like it a lot :)
 
 Intentionally slow in the beginning and a ramping up of the emotion and psychosis.
 
