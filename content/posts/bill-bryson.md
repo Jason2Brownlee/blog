@@ -19,7 +19,7 @@ I reread Sedaris mostly at Christmas time, at night, when things are calm, when 
 
 I reread Sedaris a ton during the pandemic. Just to escape into his stories for a few hours. Sedaris makes you feel like your in on the joke. Your in the club, a part of the family, a close friend and confidant.
 
-Rereading Bryson makes you feel smart. You feel like you're learning the history of a thing or a place. And maybe you are, but really, you want to see what kind of situation he gets himself into and what he says about it. It's the stories. Not the history.
+Rereading Bryson makes you feel smart. You feel like you're learning the history of a thing or a place. And maybe you are, but really, you want to see what kind of situation he gets himself into and what he says about it. You want to see what kind of crazy story he will tell about a historical figure or situation. It's the stories AND the history. His travel writing might be his most comforting.
 
 I guess it's the wit of both writers.
 
