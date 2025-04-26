@@ -4,6 +4,9 @@
 .DS_Store
 **/.DS_Store
 
+# ignore ideas
+dev
+
 # ignore hugo stuff
 public
 dist
