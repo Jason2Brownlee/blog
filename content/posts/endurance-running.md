@@ -61,8 +61,8 @@ Walking is probably enough.
 
 (Almost) Everyone can walk, fewer can run. Although, looking around the playground at primary school when I drop off my youngest in the morning and you see "all" the kids _running_ around.
 
-I love walks. I have gone for "daily walks" or tried to since childhood. Until recently, my main exercise was a daily 5km walk.
+I love walks. I have gone for daily walks or tried to since childhood. Until recently, my main exercise was a daily 5km walk.
 
-Perhaps running bonus of our walking physiology that some of us can do/enjoy doing.
+Perhaps running is a bonus of our walking physiology that some of us can do/enjoy doing.
 
 Back to work!
