@@ -1,6 +1,6 @@
 ---
 date: '2025-05-02T05:52:10+10:00'
-title: 'Sugar'
+title: 'Sugar is Bad'
 ---
 
 Smoking kills, tobacco is bad.
@@ -43,11 +43,11 @@ Yes, there is natural sugar. But, then there's sugar that is added to practicall
 
 > Everything sweet, all the time!
 
-And it's killing almost everyone slowly. Taking years and decades off their life with all the associated health problems.
+And it's killing almost everyone slowly. Taking years and decades off our lives with all the associated health problems.
 
 Right now, we look back 40+ years and can't believe the normalization of smoking.
 
-People of 2020s (or earlier, I hope) will look back at us an simply not believe the normalization of added sugar.
+People of 2120s (or earlier, I hope) will look back at us an simply not believe the normalization of added sugar.
 
 It will probably take 100 years because its slow acting. It takes a long time to kill, a lifetime perhaps. And kills you a few different ways so it will be harder to prove, harder to have a smoking gun moment.
 
