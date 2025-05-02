@@ -47,7 +47,7 @@ And it's killing almost everyone slowly. Taking years and decades off our lives 
 
 Right now, we look back 40+ years and can't believe the normalization of smoking.
 
-People of 2120s (or earlier, I hope) will look back at us an simply not believe the normalization of added sugar.
+People of 2120s (or earlier, I hope) will look back at us and simply not believe the normalization of added sugar.
 
 It will probably take 100 years because its slow acting. It takes a long time to kill, a lifetime perhaps. And kills you a few different ways so it will be harder to prove, harder to have a smoking gun moment.
 
