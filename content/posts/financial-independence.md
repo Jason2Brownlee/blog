@@ -13,9 +13,9 @@ Here's a definition from gpt4o:
 
 Once FI, the next step is to truly do what you want. Typically: Retire Early, RE. To stop trading time for money. But people can't or won't.
 
-Average people don't want FI or RE. They might say they do, but they probably don't. It's too much freedom.
+Average people could achieve, don't want FI or RE ([FIRE](https://en.wikipedia.org/wiki/FIRE_movement)). They might say they do, but they probably don't. It's too much freedom.
 
-I suspect most people would rather look rich (fancy cars, house, kids school, stuff) than be truly financially independent, i.e. he option to be time wealthy. They create traps for themselves to ensure they can't be independent. Like loans and payment plans, and other systems that require ever increasing cash flow.
+I suspect most people would rather look rich (fancy cars, house, kids school, stuff) than be truly financially independent, i.e. the option to be time wealthy. They create traps for themselves to ensure they can't be independent. Like loans and payment plans, and other systems that require ever increasing cash flow.
 
 If you are free, totally free, to do what you want each day, how would anyone know? How would you be able to show it off? Whereas if you're "rich", you can go to work and show off your car/watch/house/holidays whatever. Most people need to know where they fit into the status hierarchy, at least with people they know.
 
@@ -23,9 +23,15 @@ Maybe this is why many people who could be free to not work given their finances
 
 Or perhaps, people have no idea what to do with themselves if they were free. This is probably a massive issue. If all you do is work and family, how would you fill your days if you didn't have to go to work and the rest of your family was at school all day? Watch tiktok all day? It would get really old, fast.
 
-For me, I think it helps a lot to: **have inexpensive hobbies!**
+For me, **how could the goal ever not be financial independence to then retire early?**
 
-Inexpensive ways to spend your days is key, I think. Keep the burn rate down and the enjoyment up.
+Who the hell wants to be told what to do and where to go for 50+ years? Most people I guess.
+
+So, how?
+
+I think it helps a lot to *have inexpensive hobbies!* And save+invest a lot by default, obviously. But cap outgoings at something really low.
+
+Keep the burn rate down and the enjoyment up.
 
 For example:
 
@@ -35,19 +41,19 @@ For example:
 * Travel
 * Help people
 
-Be curious.
+I just want to read and think about stuff all day :)
 
-Read and research.
+To be curious.
 
-I once joked to a friend that I'm a "gentleman scientist".
+To read and research.
+
+I once joked to a friend that I'm a "gentleman scientist". Not really though, my interests jump around too much.
 
 Via gpt4o:
 
 > A *gentleman scientist* is an individual who conducts scientific research independently, often without formal affiliation to academic or governmental institutions, and typically funds their own work. Historically, the term referred to wealthy, well-educated men—especially in the 17th to 19th centuries—who pursued scientific inquiry as a hobby or passion rather than a profession. Notable examples include Charles Darwin and Benjamin Franklin. While the term has largely fallen out of use in modern science due to the rise of institutionalized research and professionalization, it still connotes a spirit of curiosity-driven exploration outside traditional academic structures.
 
-I just want to read and think about stuff all day :)
-
-It forces you to take a hard look at yourself, at what you do, what you believe, at meaning.
+FIRE forces you to take a hard look at yourself, at what you do, what you believe, at meaning.
 
 I used to think I "was" a programmer. But it turns out, I can program, I even like to write code, but I'm not a programmer.
 
@@ -62,4 +68,5 @@ Because if I don't have to do these things, I'd rather not. If I were a programm
 
 For me, I can't not read books every day. I can't not do little writing or research projects. To tinker with ideas.
 
-It's liberating to figure out yourself.
+It's liberating to figure out yourself. But hard emotional work.
+
