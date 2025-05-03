@@ -19,7 +19,7 @@ Most parents/people I chat to would rather look rich (fancy cars, house, kids sc
 
 If you are free, totally free, to do what you want each day, how would anyone know? How would you be able to show it off? Whereas if you're "rich", you can go to work and show off your car/jewellery/house/holidays/clothes whatever. Most people need to know where they fit into the status hierarchy, at least with people they know. And for most people, the only other people they know are at work, or connected through the kid's school.
 
-Maybe this is why many people who could be free to not work given their finances, chose not to. Perhaps the option is so alien that it's never even considered, i.e. if you can work (earn income), you should, you must. There's never "enough" money. That's an invalid concept to many.
+Maybe this is why many people who could be free to not work given their finances, choose not to. Perhaps the option is so alien that it's never even considered, i.e. if you can work (earn income), you should, you must. There's never "enough" money. That's an invalid concept to many.
 
 Or perhaps, people have no idea what to do with themselves if they were free. This is probably a massive issue. If all you do is work and family, how would you fill your days if you didn't have to go to work and the rest of your family was at school all day? Watch tiktok all day? It would get really old, fast. It's why the most common refrain I hear after telling someone I'm retired is that they "love their job/career". Self-brainwashing into a point of view because the alternative scarier/more painful.
 
@@ -27,13 +27,13 @@ I no longer try to talk this out to people we run into. Everyone's making choice
 
 For me, **how could the goal ever not be financial independence to then retire early?**
 
-Who the hell wants to be told what to do and where to go for 50+ years? Most people I guess. Not me! I've been bailing out for years. Research was a way of bailing out first. Entrepreneurship was a way of bailing out second, and this approach worked.
+Who the hell wants to be told what to do and where to go for 50+ years? Most people I guess. Not me! I've been bailing out for years. Research was a way of bailing out first. Entrepreneurship was a way of bailing out second, and this approach worked for good.
 
-So, how to live while retired early?
+So, how do you live while retired early?
 
-Have modest desires. Love modestly.
+Have modest desires. Live modestly.
 
-I think it helps a lot to *have inexpensive hobbies!*
+I think it helps a lot to *have inexpensive hobbies.*
 
 The thing you do every day, the thing you love is cheap or free.
 
