@@ -11,15 +11,17 @@ Here's a definition from gpt4o:
 
 > Financial independence is the state of having sufficient personal wealth to live comfortably without needing to actively work for basic living expenses. It means your investments, savings, or passive income sources—such as rental properties, dividends, or interest—generate enough income to cover your lifestyle costs. Achieving financial independence often involves disciplined saving, smart investing, and careful budgeting over time. It allows individuals greater freedom to choose how they spend their time, whether that’s continuing to work by choice, pursuing passion projects, or retiring early.
 
-Average people don't want FI. They might say they do, but they probably don't. It's too much freedom.
+Once FI, the next step is to truly do what you want. Typically: Retire Early, RE. To stop trading time for money. But people can't or won't.
 
-I suspect most people would rather look rich (fancy cars, house, kids school, stuff) than be financially independent, i.e. time wealthy.
+Average people don't want FI or RE. They might say they do, but they probably don't. It's too much freedom.
 
-If you are free, totally free, to do what you want each day, how would anyone know? How would you be able to show it off? Whereas if you're "rich", you can go to work and show off your car/watch/house/holidays whatever. How would you know where you fit into the status hierarchy if you're home all day?
+I suspect most people would rather look rich (fancy cars, house, kids school, stuff) than be truly financially independent, i.e. he option to be time wealthy. They create traps for themselves to ensure they can't be independent. Like loans and payment plans, and other systems that require ever increasing cash flow.
 
-Maybe this is why many people who could be free given their finances, chose not to. Perhaps the option is so alien that it's never even considered, i.e. if you can work (earn income), you should. There's never "enough". I no longer try to point this out to people. Everyone's making choices, even if implicitly.
+If you are free, totally free, to do what you want each day, how would anyone know? How would you be able to show it off? Whereas if you're "rich", you can go to work and show off your car/watch/house/holidays whatever. Most people need to know where they fit into the status hierarchy, at least with people they know.
 
-Or perhaps, people have no idea what to do with themselves if they were free. This is probably a massive issue. If all you do is work and family, how would you fill your days if you didn't have to go to work and the rest of  family was at school all day? Watch tiktok all day? It would get really old, fast.
+Maybe this is why many people who could be free to not work given their finances, chose not to. Perhaps the option is so alien that it's never even considered, i.e. if you can work (earn income), you should. There's never "enough". I no longer try to point this out to people. Everyone's making choices, even if implicitly.
+
+Or perhaps, people have no idea what to do with themselves if they were free. This is probably a massive issue. If all you do is work and family, how would you fill your days if you didn't have to go to work and the rest of your family was at school all day? Watch tiktok all day? It would get really old, fast.
 
 For me, I think it helps a lot to: **have inexpensive hobbies!**
 
