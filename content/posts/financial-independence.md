@@ -17,17 +17,17 @@ Average people could achieve, don't want FI or RE ([FIRE](https://en.wikipedia.o
 
 I suspect most people would rather look rich (fancy cars, house, kids school, stuff) than be truly financially independent, i.e. the option to be time wealthy. They create traps for themselves to ensure they can't be independent. Like loans and payment plans, and other systems that require ever increasing cash flow.
 
-If you are free, totally free, to do what you want each day, how would anyone know? How would you be able to show it off? Whereas if you're "rich", you can go to work and show off your car/watch/house/holidays whatever. Most people need to know where they fit into the status hierarchy, at least with people they know.
+If you are free, totally free, to do what you want each day, how would anyone know? How would you be able to show it off? Whereas if you're "rich", you can go to work and show off your car/watch/house/holidays/clothes whatever. Most people need to know where they fit into the status hierarchy, at least with people they know.
 
-Maybe this is why many people who could be free to not work given their finances, chose not to. Perhaps the option is so alien that it's never even considered, i.e. if you can work (earn income), you should. There's never "enough". I no longer try to point this out to people. Everyone's making choices, even if implicitly.
+Maybe this is why many people who could be free to not work given their finances, chose not to. Perhaps the option is so alien that it's never even considered, i.e. if you can work (earn income), you should, you must. There's never "enough". I no longer try to point this out to people we run into. Everyone's making choices, even if implicitly.
 
-Or perhaps, people have no idea what to do with themselves if they were free. This is probably a massive issue. If all you do is work and family, how would you fill your days if you didn't have to go to work and the rest of your family was at school all day? Watch tiktok all day? It would get really old, fast.
+Or perhaps, people have no idea what to do with themselves if they were free. This is probably a massive issue. If all you do is work and family, how would you fill your days if you didn't have to go to work and the rest of your family was at school all day? Watch tiktok all day? It would get really old, fast. It's why the most common refrain I heard after telling someone I'm retired is that they "love their job/career". Self-brainwashing into a point of view because the alternative scarier.
 
 For me, **how could the goal ever not be financial independence to then retire early?**
 
-Who the hell wants to be told what to do and where to go for 50+ years? Most people I guess.
+Who the hell wants to be told what to do and where to go for 50+ years? Most people I guess. Not me! I've been bailing out for years. Research was a way of bailing out first. Entrepreneurship was a way of bailing out second.
 
-So, how?
+So, how to live while retired early?
 
 I think it helps a lot to *have inexpensive hobbies!* And save+invest a lot by default, obviously. But cap outgoings at something really low.
 
