@@ -13,9 +13,9 @@ Here's a definition from gpt4o:
 
 Once FI, the next step is to truly do what you want. Typically: Retire Early, RE. To stop trading time for money. But people can't or won't.
 
-Average people could achieve, don't want FI or RE ([FIRE](https://en.wikipedia.org/wiki/FIRE_movement)). They might say they do, but they probably don't. It's too much freedom.
+Average people who could achieve FI and RE ([FIRE](https://en.wikipedia.org/wiki/FIRE_movement)), don't want it. They might say they do, but they probably don't on some level. It's too much freedom. It turns the world around and puts it on your shoulders. (hey guys, it always was!)
 
-I suspect most people would rather look rich (fancy cars, house, kids school, stuff) than be truly financially independent, i.e. the option to be time wealthy. They create traps for themselves to ensure they can't be independent. Like loans and payment plans, and other systems that require ever increasing cash flow.
+Most parents/people I chat to would rather look rich (fancy cars, house, kids school, stuff) than be truly financially independent, i.e. the option to be time wealthy. They create traps for themselves to ensure they can't be independent. Like loans and payment plans, the "need" for this or that each year, and other systems that require ever increasing cash flow.
 
 If you are free, totally free, to do what you want each day, how would anyone know? How would you be able to show it off? Whereas if you're "rich", you can go to work and show off your car/watch/house/holidays/clothes whatever. Most people need to know where they fit into the status hierarchy, at least with people they know.
 
@@ -25,7 +25,7 @@ Or perhaps, people have no idea what to do with themselves if they were free. Th
 
 For me, **how could the goal ever not be financial independence to then retire early?**
 
-Who the hell wants to be told what to do and where to go for 50+ years? Most people I guess. Not me! I've been bailing out for years. Research was a way of bailing out first. Entrepreneurship was a way of bailing out second.
+Who the hell wants to be told what to do and where to go for 50+ years? Most people I guess. Not me! I've been bailing out for years. Research was a way of bailing out first. Entrepreneurship was a way of bailing out second, and this approach worked.
 
 So, how to live while retired early?
 
