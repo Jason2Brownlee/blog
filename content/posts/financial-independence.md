@@ -17,11 +17,14 @@ Once FI, the next step is to truly do what you want. Typically: Retire Early, RE
 
 For me, **how could the goal ever not be financial independence to then retire early?**
 
-Who the hell wants to be told what to do and where to go for 50+ years? Most people I guess.
+Who the hell wants to be told what to do and where to go for 50+ years?
 
-Not me!
+Most people I guess. Not me!
 
-I've been bailing out for years. Research was a way of bailing out first. Entrepreneurship was a way of bailing out second, and this approach worked for good.
+I've been bailing out for years:
+
+- Research was a way of bailing out first.
+- Entrepreneurship was a way of bailing out second, and this approach worked for good.
 
 So, how do you live while retired early?
 
@@ -67,6 +70,8 @@ Because if I don't have to do these things, I'd rather not. If I were a programm
 - A entrepreneur can't not start and run businesses.
 
 For me, I can't not read books every day. I can't not do little writing or research projects. To tinker with ideas.
+
+This "[cant not](/blog/posts/cant-not/)" of behaviour is my new theory of humans.
 
 It's liberating to figure out yourself. But hard emotional work.
 
