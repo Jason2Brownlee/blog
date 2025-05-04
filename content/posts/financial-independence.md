@@ -11,23 +11,17 @@ Here's a definition from gpt4o:
 
 > Financial independence is the state of having sufficient personal wealth to live comfortably without needing to actively work for basic living expenses. It means your investments, savings, or passive income sources—such as rental properties, dividends, or interest—generate enough income to cover your lifestyle costs. Achieving financial independence often involves disciplined saving, smart investing, and careful budgeting over time. It allows individuals greater freedom to choose how they spend their time, whether that’s continuing to work by choice, pursuing passion projects, or retiring early.
 
-Once FI, the next step is to truly do what you want. Typically: Retire Early, RE. (Note FI + RE is [FIRE](https://en.wikipedia.org/wiki/FIRE_movement)). RE is when you stop trading time for money. But people can't or won't. Deep down, they don't want to. That's my theory after having run into many "rich" people over the years.
+Once FI, the next step is to truly do what you want. Typically: Retire Early, RE. (Note FI + RE is [FIRE](https://en.wikipedia.org/wiki/FIRE_movement)). RE is when you stop trading time for money.
 
-Average people who could achieve FI and RE, don't want it. They might say they do, but they probably don't on some level. It's too much freedom. It turns the world around and puts it on your shoulders. (hey guys, it always was!)
-
-Most parents/people I chat to would rather look rich (fancy cars, house, kids school, stuff) than be truly financially independent, i.e. the option to be time wealthy. They create traps for themselves to ensure they can't be independent. Like loans and payment plans, the "need" for this or that each year, and other systems that require ever increasing cash flow.
-
-If you are free, totally free, to do what you want each day, how would anyone know? How would you be able to show it off? Whereas if you're "rich", you can go to work and show off your car/jewellery/house/holidays/clothes whatever. Most people need to know where they fit into the status hierarchy, at least with people they know. And for most people, the only other people they know are at work, or connected through the kid's school.
-
-Maybe this is why many people who could be free to not work given their finances, choose not to. Perhaps the option is so alien that it's never even considered, i.e. if you can work (earn income), you should, you must. There's never "enough" money. That's an invalid concept to many.
-
-Or perhaps, people have no idea what to do with themselves if they were free. This is probably a massive issue. If all you do is work and family, how would you fill your days if you didn't have to go to work and the rest of your family was at school all day? Watch tiktok all day? It would get really old, fast. It's why the most common refrain I hear after telling someone I'm retired is that they "love their job/career". Self-brainwashing into a point of view because the alternative scarier/more painful.
-
-I no longer try to talk this out to people we run into. Everyone's making choices, even if implicitly.
+[redacted, a rant about people that trap themselves... deleted, because who cares?]
 
 For me, **how could the goal ever not be financial independence to then retire early?**
 
-Who the hell wants to be told what to do and where to go for 50+ years? Most people I guess. Not me! I've been bailing out for years. Research was a way of bailing out first. Entrepreneurship was a way of bailing out second, and this approach worked for good.
+Who the hell wants to be told what to do and where to go for 50+ years? Most people I guess.
+
+Not me!
+
+I've been bailing out for years. Research was a way of bailing out first. Entrepreneurship was a way of bailing out second, and this approach worked for good.
 
 So, how do you live while retired early?
 
