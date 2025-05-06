@@ -45,8 +45,8 @@ Some guides to read:
 
 And on.
 
-The guides are short and thin. I really need a big fat book or video series, ideally one written yesterday with all the latest AI tools.
+The guides are short and thin. I really need a big fat book or video series, ideally one written yesterday that covers all of the latest AI tools.
 
-What I really need is ideas on how to structure episodes and seasons. I have to read some I guess and get ideas.
+What I really need is ideas on how to structure episodes and seasons. I have to read some and get ideas.
 
 I guess each season is about a key event or transformation, the episodes make progress toward that and also have their own mini transformation or event. All seasons together might also show some progression or transformation. Arcs within arcs within arcs on down to the scene and beat I guess.
