@@ -33,7 +33,7 @@ Based on the pricing page, it would cost maybe $13/$23 per month for a Hobbyist/
 
 It sounds fun.
 
-I have no idea how to structure seralized fiction.
+I have no idea how to structure serialized fiction.
 
 Some guides to read:
 
