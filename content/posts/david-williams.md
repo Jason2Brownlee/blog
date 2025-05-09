@@ -21,9 +21,15 @@ What is his writing style?
 
 > David Walliams' writing style, particularly in his children’s books, is characterized by a playful, humorous, and accessible tone that blends wit with heartfelt storytelling, often likened to Roald Dahl. His narratives are fast-paced, filled with quirky characters, absurd situations, and a touch of mischief, engaging young readers while incorporating subtle moral lessons. Walliams employs vivid, exaggerated imagery and clever wordplay, creating a whimsical yet relatable world. His stories often feature underdog protagonists, celebrating individuality and resilience, with a balance of lighthearted comedy and poignant moments that resonate emotionally. The inclusion of dark humor and occasional gross-out elements appeals to children’s sense of fun, while his conversational style and frequent use of direct address make readers feel involved. Enhanced by Tony Ross’s expressive illustrations, Walliams’ prose is dynamic, inclusive, and adept at capturing both the absurdities and tenderness of childhood.
 
-Nod, so like a modern Roald Dahl.
+Nod, so like a modern [Roald Dahl](https://en.wikipedia.org/wiki/Roald_Dahl).
 
-No wonder the 30 million copies.
+No wonder the 50 million copies.
+
+What age are the books aimed at?
+
+> David Walliams' books are primarily aimed at children aged **7 to 12 years old** (roughly middle-grade readers). His stories, with their humorous narratives, relatable characters, and accessible language, appeal to this age group, though younger readers (with parental guidance) and older readers often enjoy them too due to their wit and emotional depth.
+
+Nod, so my youngest at 7 is at the lower end of this range.
 
 And his most popular books?
 
