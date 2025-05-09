@@ -3,7 +3,7 @@ date: '2025-05-10T06:40:08+10:00'
 title: 'David Williams'
 ---
 
-I'm youngest is reading a ton of [David Williams](https://en.wikipedia.org/wiki/David_Walliams) books, much like his older brother did before him.
+My youngest has been reading a ton of [David Williams](https://en.wikipedia.org/wiki/David_Walliams) books recently.
 
 I've not read them, what are they all about?
 
