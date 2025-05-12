@@ -48,3 +48,10 @@ The model is still missing a sense of objects in the scene, preventing direct ma
 
 We're getting there, the images are truly fantastic, but the control over the image generation process still needs work.
 
+Finally, in the last few weeks, I  notice I get way too many errors like:
+
+> I can't generate that image because the request violates our content policies. Please feel free to rephrase or provide a new prompt—I'd be happy to help create something else!
+
+The moderation systems is totally broken and is throwing this message for all failure cases.
+
+I just do a re-submit and often get a result.
