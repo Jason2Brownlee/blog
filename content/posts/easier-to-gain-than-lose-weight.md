@@ -31,11 +31,11 @@ That this hypothetical human with a 500 calorie surplus would gain 5.45 kg in mo
 
 And: 4.0/5.45 = 0.733
 
-This is all best case. E.g. sticking to the surplus/deficit. In reality, there are massive swings be cause we're not robots and live in a dynamic world.
+This is all best case. E.g. sticking to the surplus/deficit. In reality, there are massive swings because we're not robots and live in a dynamic world.
 
 And this assumes a fixed ratio. It's probably not. _Gainers gain faster_ (fat mass taking precedence for new calories or something) would be my guess and _losers lose slower_ (diminishing returns or something).
 
-LLMs always agree with me, which means it;s probably wrong, but here's an updated scenario:
+LLMs always agree with me, which means it's probably wrong, but here's an updated scenario:
 
 > In a 12-week scenario with a 2,000-calorie daily maintenance TDEE, a 500-calorie surplus (2,500 calories/day) leads to slightly super-linear weight gain of ~5.7 kg, as the effective surplus grows due to a modest TDEE increase from added body mass. Conversely, a 500-calorie deficit (1,500 calories/day) results in sub-linear weight loss of ~3.64 kg, with the rate slowing over time (from 0.454 kg/week to 0.182 kg/week) due to progressive metabolic adaptation reducing TDEE (e.g., from 2,000 to 1,700 calories). This creates a non-fixed ratio of ~1 : 0.638, where weight loss is only 63.8% of weight gain, reflecting the body’s efficient fat storage and increasing resistance to fat loss over time.
 
