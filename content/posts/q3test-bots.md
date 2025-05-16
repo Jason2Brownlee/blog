@@ -9,9 +9,9 @@ I acquired and played all of them.
 
 I remember spending a lot of time trying to get bots working with one of these releases.
 
-It may have been the q3test.
+It may have been the q3test v1.05.
 
-We had to run a command that modified the game, then we could use commands to spawn bots. The fun was figuring out what all the bot commands did.
+We had to run a program that modified the game, then we could use commands in-game to spawn bots. The fun was figuring out what all the bot commands did.
 
 The bots were no good, but we had a lot of fun with it all.
 
@@ -104,13 +104,14 @@ Here are some historical locations for `q3tbots-1.11.zip`:
 
 Some discussion here:
 
-* [https://riva.pepak.net/archiv/99_06.htm](https://riva.pepak.net/archiv/99_06.htm)
+* [http://riva.pepak.net/archiv/99_06.htm](http://riva.pepak.net/archiv/99_06.htm)
 * [http://www.penza-games.narod.ru/progi.htm](http://www.penza-games.narod.ru/progi.htm)
 * [http://q3.zone.ru/sections/general/bots/bots.html](https://web.archive.org/web/19991111063239/http://q3.zone.ru:80/sections/general/bots/bots.html) (archived)
 * [/servis/tipy/web/files.htm](https://discmaster.textfiles.com/view/23382/Chip_1999-12_cd.bin/servis/tipy/web/files.htm) (archived)
 * [http://www.q3arena.pl/1707-1209.html](https://web.archive.org/web/20010222142817/http://www.q3arena.pl/1707-1209.html) (archived)
 * [http://www.tranzmit.connectfree.co.uk/quake3.htm](https://web.archive.org/web/19991009060531/http://www.tranzmit.connectfree.co.uk/quake3.htm) (archived)
 * [http://www.moneychair.demon.co.uk:80/quake3/qbots.htm](https://web.archive.org/web/20000601060651/http://www.moneychair.demon.co.uk:80/quake3/qbots.htm) (archived)
+
 
 A copy of the v1.1 readme was posted on Usenet:
 
@@ -131,8 +132,29 @@ Description : Enables Bots in Quake 3 Test
 
 -- [alt.games.quake3](https://groups.google.com/g/alt.games.quake3/c/6JVRn8dLmd4/m/oMNPaiQmYE0J), 6 July 1999.
 
+Interestingly, an alternate version (ripped off?) was shared here:
 
-I created a Geocities site to document all my findings and shared the link on Usenet:
+* https://www.geocities.ws/dinkhotline/q3/bot.zip
+
+Here's the readme header:
+
+```text
+29/Aug/99
+================================================================
+Title                   : Q3Test Bots from quakemania
+Filename                : q3tbots.exe
+Version                 : 1
+Author                  : Locutus[x]
+Email Address           : quake_mania@hotmail.com
+Description             : Enables Bots in Quake 3 Test
+Web site                : Http://www.quakemania.freeserve.co.uk/
+================================================================
+
+...
+```
+
+
+Finally, I created a Geocities site to document all my findings and shared the link on Usenet:
 
 ```text
 What do you think?, 4 Nov 1999
