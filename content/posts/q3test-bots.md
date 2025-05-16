@@ -37,9 +37,11 @@ Author                  : YoGrE
 Email Address           : yogre@hotmail.com
 Description             : Enables Bots in Quake 3 Test
 ================================================================
+
+...
 ```
 
-That's right.
+That's right...
 
 YoGrE figured it out and we were all chatting on the shuga shack message board.
 
@@ -78,9 +80,8 @@ It suggests an updated version of `q3tbots.zip` as `q3tbots-1.1.zip` or `q3tbots
 
 It also confirms that bots only worked with Q3Test v1.05.
 
-Some more (broken) links:
+Here are some historical locations for `q3tbots.zip`:
 
-* ftp.incubus.net/incoming/q3tbots-1.1.zip
 * ftp://ftp.dermak.pl/incoming/botq3a/q3tbots.zip
 * ftp://ftp.fps3d.com/quake3/q3tbots.zip
 * ftp://ftp.pc.com.pl/pliki/zip/q3tbots.zip
@@ -89,12 +90,27 @@ Some more (broken) links:
 * http://members.xoom.com/synmaps/q3tbots.zip
 * http://privat.schlund.de/e/elk-clan/q3/q3tbots.zip
 * http://q3.zone.ru/files/q3tbots.zip
-* http://www.moneychair.demon.co.uk/quake3/q3bots/q3tbots-1_1.zip
+* http://riva.hardware.ru/soft/util/hack/q3tbots.zip
+* http://riva.pepak.net/soubory/q3tbots.zip
 * http://www.multiplayer.it/files/q3tbots.zip
-* http://www.q3arena.pl/download/add/q3tbots-1.11.zip
 * http://www.tranzmit.connectfree.co.uk/q3bots.zip
-* https://riva.pepak.net/soubory/q3tbots.zip
-* And on...
+* https://www.penza-games.narod.ru/Q3tbots.zip
+
+Here are some historical locations for `q3tbots-1.11.zip`:
+
+* ftp://ftp.incubus.net/incoming/q3tbots-1.1.zip
+* http://www.moneychair.demon.co.uk/quake3/q3bots/q3tbots-1_1.zip
+* http://www.q3arena.pl/download/add/q3tbots-1.11.zip
+
+Some discussion here:
+
+* [https://riva.pepak.net/archiv/99_06.htm](https://riva.pepak.net/archiv/99_06.htm)
+* [http://www.penza-games.narod.ru/progi.htm](http://www.penza-games.narod.ru/progi.htm)
+* [http://q3.zone.ru/sections/general/bots/bots.html](https://web.archive.org/web/19991111063239/http://q3.zone.ru:80/sections/general/bots/bots.html) (archived)
+* [/servis/tipy/web/files.htm](https://discmaster.textfiles.com/view/23382/Chip_1999-12_cd.bin/servis/tipy/web/files.htm) (archived)
+* [http://www.q3arena.pl/1707-1209.html](https://web.archive.org/web/20010222142817/http://www.q3arena.pl/1707-1209.html) (archived)
+* [http://www.tranzmit.connectfree.co.uk/quake3.htm](https://web.archive.org/web/19991009060531/http://www.tranzmit.connectfree.co.uk/quake3.htm) (archived)
+* [http://www.moneychair.demon.co.uk:80/quake3/qbots.htm](https://web.archive.org/web/20000601060651/http://www.moneychair.demon.co.uk:80/quake3/qbots.htm) (archived)
 
 A copy of the v1.1 readme was posted on Usenet:
 
@@ -110,110 +126,13 @@ Email Address : yo...@hotmail.com
 Description : Enables Bots in Quake 3 Test
 ================================================================
 
-* Credits *
-
-- id Software for most everything they did and mostly for leaving most of
-the bot code intact :)
-
-* Installation *
-
-Run the q3tbots.exe file in your q3test directory. It will backup the
-original
-and create a patched file.. As far as I know, everything works fine but I
-may
-be wrong.
-
-Start Q3Test and load a map.
-
-Type "nav gen" in the console. This will create a navigation file the bots
-need
-to operate. This takes a VERY long time to complete and it will seem like
-your
-computer has hung. On my P2 300 it takes about 2-3 minutes I think. This
-needs
-to be done only once for each map you plan on playing bots in.
-
-* Running *
-
-Start Q3Test and load a map. In the console, type: "bot spawn <botname>"
-
-Botname is a bot name from the scripts/bots.txt file. It is optional and
-will spawn a bot named "Player" if not specified.
-
-You can also edit the arenas.txt file for pre-defined arenas.
-
-* Notes *
-
-As many of us have known for some time, the game dll contains the bot code
-but it
-was disabled. After getting frustrated with my poor connection (28.8) I
-decided
-to see if I could somehow re-enable it. Guess what? It worked :)
-
-I am not sure if I have enabled everything but it seems to work. I have
-played a
-little on both maps and the bots seem pretty good. I haven't played enough
-to give
-an accurate assessment though. I leave that to you :)
-
-It's not perfect. It seems the bots will only use the MachineGun. This could
-be because
-weapon switching is not programed yet but it may be related to the bots.cfg
-file.
-
-* History *
-
-Version 1.1
-- bots.cfg now loads correctly. Bots still use only MG as far as I can tell.
-Maybe someone can mess with the bots.cfg parameters a bit. As far as I can tell,
-these are the possible params a bot can have:
-
-model
-reactions
-aim
-move
-aggression
-intelligence
-hfov
-vfov
-healthMethod
-armorMethod
-ammoMethod
-weapons
-snd
-
-Let me know if you figure something (other than the obvious) out so I add
-it to the
-txt file.
-
-- The "nav gen" doesn't need to be repeated if you already installed the old
-version
-and did it once.
-
-- New version can be used against patched dll. File is backed up as
-extension b11
-(instead of bak) to avoid loss of original file.
-
-* Disclaimer *
-
-I know of no way this file can harm your computer, however, I cannot be held
-responsible if it does. If you choose to use it in any way, you do so under
-your own risk.
-
-* Copyright / Permissions *
-
-This file may be electronically distributed only with no
-charge to the recipient, and may not be modified in any way.
-This text file must be included with the map unmodified.
-
-This file may not be distributed on any CD-ROM without the
-prior, explicit written consent by YoGrE.
+...
 ```
 
 -- [alt.games.quake3](https://groups.google.com/g/alt.games.quake3/c/6JVRn8dLmd4/m/oMNPaiQmYE0J), 6 July 1999.
 
 
-I created a geocities site to document all my findings and shared the link on usenet:
+I created a Geocities site to document all my findings and shared the link on Usenet:
 
 ```text
 What do you think?, 4 Nov 1999
