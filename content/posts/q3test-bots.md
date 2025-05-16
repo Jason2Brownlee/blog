@@ -88,10 +88,12 @@ Here are some historical locations for `q3tbots.zip`:
 * ftp://ftp.xaos.ru/pub/quake3/bots/q3tbots.zip
 * http://hellborn.virtualave.net/q3tbots.zip
 * http://members.xoom.com/synmaps/q3tbots.zip
+* http://people.a2000.nl/tscheff/q3tbots.zip
 * http://privat.schlund.de/e/elk-clan/q3/q3tbots.zip
 * http://q3.zone.ru/files/q3tbots.zip
 * http://riva.hardware.ru/soft/util/hack/q3tbots.zip
 * http://riva.pepak.net/soubory/q3tbots.zip
+* http://www.d128.com/files/q3tbots.zip
 * http://www.multiplayer.it/files/q3tbots.zip
 * http://www.tranzmit.connectfree.co.uk/q3bots.zip
 * https://www.penza-games.narod.ru/Q3tbots.zip
