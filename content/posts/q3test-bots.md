@@ -19,7 +19,12 @@ I remember chatting in the [shuga shack forums](https://web.archive.org/web/1999
 
 Let's dig in.
 
-I [found](https://discmaster.textfiles.com/browse/23382/Chip_1999-12_cd.bin/servis/tipy/web/soubory/q3tbots.zip) `q3tbots.zip` that contains `q3tbots.txt` and `q3tbots.exe`.
+I [found](https://discmaster.textfiles.com/browse/23382/Chip_1999-12_cd.bin/servis/tipy/web/soubory/q3tbots.zip) `q3tbots.zip` that contains `q3tbots.txt` and `q3tbots.exe`:
+
+```text
+-rw-rw-r--  0 0      0        2564 31 May  1999 q3tbots.txt
+-rw-rw-r--  0 0      0       32768 31 May  1999 q3tbots.exe
+```
 
 Here's the header of the readme:
 
@@ -86,8 +91,127 @@ Some more (broken) links:
 * http://q3.zone.ru/files/q3tbots.zip
 * http://www.moneychair.demon.co.uk/quake3/q3bots/q3tbots-1_1.zip
 * http://www.multiplayer.it/files/q3tbots.zip
+* http://www.q3arena.pl/download/add/q3tbots-1.11.zip
 * http://www.tranzmit.connectfree.co.uk/q3bots.zip
+* https://riva.pepak.net/soubory/q3tbots.zip
 * And on...
+
+A copy of the v1.1 readme was posted on Usenet:
+
+```text
+==============================================================
+05/31/1999
+================================================================
+Title : Q3Test Bots Galore
+Filename : q3tbots.exe
+Version : 1.1
+Author : YoGrE
+Email Address : yo...@hotmail.com
+Description : Enables Bots in Quake 3 Test
+================================================================
+
+* Credits *
+
+- id Software for most everything they did and mostly for leaving most of
+the bot code intact :)
+
+* Installation *
+
+Run the q3tbots.exe file in your q3test directory. It will backup the
+original
+and create a patched file.. As far as I know, everything works fine but I
+may
+be wrong.
+
+Start Q3Test and load a map.
+
+Type "nav gen" in the console. This will create a navigation file the bots
+need
+to operate. This takes a VERY long time to complete and it will seem like
+your
+computer has hung. On my P2 300 it takes about 2-3 minutes I think. This
+needs
+to be done only once for each map you plan on playing bots in.
+
+* Running *
+
+Start Q3Test and load a map. In the console, type: "bot spawn <botname>"
+
+Botname is a bot name from the scripts/bots.txt file. It is optional and
+will spawn a bot named "Player" if not specified.
+
+You can also edit the arenas.txt file for pre-defined arenas.
+
+* Notes *
+
+As many of us have known for some time, the game dll contains the bot code
+but it
+was disabled. After getting frustrated with my poor connection (28.8) I
+decided
+to see if I could somehow re-enable it. Guess what? It worked :)
+
+I am not sure if I have enabled everything but it seems to work. I have
+played a
+little on both maps and the bots seem pretty good. I haven't played enough
+to give
+an accurate assessment though. I leave that to you :)
+
+It's not perfect. It seems the bots will only use the MachineGun. This could
+be because
+weapon switching is not programed yet but it may be related to the bots.cfg
+file.
+
+* History *
+
+Version 1.1
+- bots.cfg now loads correctly. Bots still use only MG as far as I can tell.
+Maybe someone can mess with the bots.cfg parameters a bit. As far as I can tell,
+these are the possible params a bot can have:
+
+model
+reactions
+aim
+move
+aggression
+intelligence
+hfov
+vfov
+healthMethod
+armorMethod
+ammoMethod
+weapons
+snd
+
+Let me know if you figure something (other than the obvious) out so I add
+it to the
+txt file.
+
+- The "nav gen" doesn't need to be repeated if you already installed the old
+version
+and did it once.
+
+- New version can be used against patched dll. File is backed up as
+extension b11
+(instead of bak) to avoid loss of original file.
+
+* Disclaimer *
+
+I know of no way this file can harm your computer, however, I cannot be held
+responsible if it does. If you choose to use it in any way, you do so under
+your own risk.
+
+* Copyright / Permissions *
+
+This file may be electronically distributed only with no
+charge to the recipient, and may not be modified in any way.
+This text file must be included with the map unmodified.
+
+This file may not be distributed on any CD-ROM without the
+prior, explicit written consent by YoGrE.
+```
+
+-- [alt.games.quake3](https://groups.google.com/g/alt.games.quake3/c/6JVRn8dLmd4/m/oMNPaiQmYE0J), 6 July 1999.
+
 
 I created a geocities site to document all my findings and shared the link on usenet:
 
