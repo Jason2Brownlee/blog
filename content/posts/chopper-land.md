@@ -69,17 +69,35 @@ What do we have?
 * [PC](https://web.archive.org/web/20000601155757fw_/http://www.geocities.com/TimesSquare/Tower/8163/pc.html)
 * [MiniDisk](https://web.archive.org/web/20000527180027/http://www.geocities.com:80/TimesSquare/Tower/8163/minidisc/MD.html)
 
+
+From the [homepage](https://web.archive.org/web/19991014005341/http://www.geocities.com:80/TimesSquare/Tower/8163/):
+
+> G'day, my name is Jason and I am an IT student in Melbourne Australia. I am a deathmatch freak! This page is the product of my obsession. I play a hell of a lot of Quake2 and Quake3 Bots. I also like to play Unreal Tournament Bots and Half-Life Bots.
+> As well as deathmatch bots I like to play single-player and consider Unreal the best that I have ever played, with the Half-Life single-player a close second.
+>
+> Deathmatch and playing bots are not my only interests. I spend a lot of time using and learning Linux. It is one great OS. My reason for loving it so much is that nothing is simple, it acts as a constant challenge and keeps me thinking and learning about how things work.
+> I also like making maps for games, I have fiddled with map editors since  Doom2 and Duke Nukem 3D. This doesn't mean I am any good at making maps though :-)
+> Because I have spent so many years playing deathmatch games and playing at lan-parties, I have developed an interest in networks. This lead me into Linux.
+>
+> The Quake series is, and will stay the best deathmatch game play. For this reason I am really interested in Quake3. I have been messing with the Q3 bots since I got the IHV version in early 1999.
+> There is a wealth of Quake3 bot information on this page, it is or will soon be redundant, but I will keep it up only because of the huge number of hours I poured into the research.
+>
+> Please don't hesitate to contact me, I would appreciate any sensible comments, corrections or ideas relating to my web page or the information on it.
+> If you feel that something needs to be added or expanded upon, or there is some information you need help with send me an email.
+
+Cool!
+
 It looks like I was rocking a Celeron 300A overclocked to 450Mhz in late 1999. Nice.
 
 I loved my mini-disc player. Loved!
 
-I already have a backup of my quake3 maps as they came over to the Human Debris site. The half-life maps (`bdale.zip`, `dfa.zip`, `elmo.zip`) and Unreal maps (`cow.zip`) are lost, it seems.
+I already have a backup of my quake3 maps as they came over to the Human Debris site. The half-life maps (`bdale.zip`, `dfa.zip`, `elmo.zip`) and Unreal maps (`cow.zip`) are lost, it seems. I wonder what happened to my doom and duke3d maps? Long long gone. Never even made it online I think.
 
 It looks like I had a file archive on <http://members.xoom.com/chopperland/> which was not archived.
 
 I was big into Linux in 1999-2000, I believe it was my desktop for much of this time (Slackware and later RedHat).
 
-It looks like I had a dedicated Linux Quake website, although sadly it was not archived.
+It looks like I had a dedicated Linux Quake website at <http://members.xoom.com/LinuxFPS>, although sadly it was not archived.
 
 ```text
 I have a dedicated Linux / Quake page.
