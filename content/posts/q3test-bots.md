@@ -43,7 +43,7 @@ Description             : Enables Bots in Quake 3 Test
 
 That's right...
 
-YoGrE figured it out and we were all chatting on the shuga shack message board.
+YoGrE figured it out and we were all chatting on the shuga shack [messageboard](https://web.archive.org/web/19991114183603/http://shugashack.com:80/msgboard/quake3.htm).
 
 It says it was for the Q3Test and is dated May 31 1999.
 
@@ -76,31 +76,97 @@ q3bots1.1
 
 -- [http://www.moneychair.demon.co.uk/quake3/qbots.htm](https://web.archive.org/web/20000601060651fw/http://www.moneychair.demon.co.uk/quake3/qbots.htm) (archived)
 
-It suggests an updated version of `q3tbots.zip` as `q3tbots-1.1.zip` or `q3tbots-1_1.zip`.
+I [found a working link](https://web.archive.org/web/20120309021345/http://www.fortunecity.com/underworld/olympic/452/downloads/q3tbots-1.1.zip) for v1.1.
 
-It also confirms that bots only worked with Q3Test v1.05.
+Here's the content:
 
-Here are some historical locations for `q3tbots.zip`:
+```text
+-rw-rw-r--  0 0      0        3305  1 Jun  1999 q3tbots.txt
+-rw-rw-r--  0 0      0       32768  1 Jun  1999 q3tbots.exe
+-rw-rw-r--  0 0      0         248  8 Jun  1999 Readme.txt.txt
+```
+
+It seems `Readme.txt.txt` was added by who ever hosted the file.
+
+Here's the truncated file header and changelog:
+
+```text
+05/31/1999
+================================================================
+Title                   : Q3Test Bots Galore
+Filename                : q3tbots.exe
+Version                 : 1.1
+Author                  : YoGrE
+Email Address           : yogre@hotmail.com
+Description             : Enables Bots in Quake 3 Test
+================================================================
+
+...
+
+* History *
+
+Version 1.1
+- bots.cfg now loads correctly. Bots still use only MG as far as I can tell. Maybe
+  someone can mess with the bots.cfg parameters a bit. As far as I can tell, these
+  are the possible params a bot can have:
+
+        model
+        reactions
+        aim
+        move
+        aggression
+        intelligence
+        hfov
+        vfov
+        healthMethod
+        armorMethod
+        ammoMethod
+        weapons
+        snd
+
+  Let me know if you figure something (other than the obvious) out so I add it to the
+  txt file.
+
+- The "nav gen" doesn't need to be repeated if you already installed the old version
+  and did it once.
+
+- New version can be used against patched dll. File is backed up as extension b11
+  (instead of bak) to avoid loss of original file.
+```
+
+For future reference, here are some historical locations for `q3tbots.zip` (some were archived):
 
 * ftp://ftp.dermak.pl/incoming/botq3a/q3tbots.zip
 * ftp://ftp.fps3d.com/quake3/q3tbots.zip
 * ftp://ftp.pc.com.pl/pliki/zip/q3tbots.zip
 * ftp://ftp.xaos.ru/pub/quake3/bots/q3tbots.zip
+* http://frefrafac.quakecity.net/download/utils/q3tbots.zip
 * http://hellborn.virtualave.net/q3tbots.zip
+* http://mapzone.quake3nation.com/files/q3tbots.zip
 * http://members.xoom.com/synmaps/q3tbots.zip
 * http://people.a2000.nl/tscheff/q3tbots.zip
 * http://privat.schlund.de/e/elk-clan/q3/q3tbots.zip
 * http://q3.zone.ru/files/q3tbots.zip
+* http://q3.zone.ru/files/q3tbots.zip
 * http://riva.hardware.ru/soft/util/hack/q3tbots.zip
 * http://riva.pepak.net/soubory/q3tbots.zip
+* http://src.doc.ic.ac.uk/packages/idgames2/planetquake/captured/wfbots/q3tbots.zip
+* http://www.captured.com/underground/news/q3tbots.zip
 * http://www.d128.com/files/q3tbots.zip
+* http://www.fortunecity.com/underworld/ninja/228/files/q3tbots.zip
+* http://www.fortunecity.com/underworld/tactic/865/q3tbots.zip
 * http://www.multiplayer.it/files/q3tbots.zip
+* http://www.quake.cz/mvs/ostatni/q3tbots.zip
+* http://www.quake.de/FILES/quake3/tool/q3tbots.zip
+* http://www.quake.wplus.net/archiv/q3tbots.zip
 * http://www.tranzmit.connectfree.co.uk/q3bots.zip
 * https://www.penza-games.narod.ru/Q3tbots.zip
 
-Here are some historical locations for `q3tbots-1.11.zip`:
+Here are some historical locations for `q3tbots-1.11.zip`  (some were archived):
 
 * ftp://ftp.incubus.net/incoming/q3tbots-1.1.zip
+* http://members.xoom.com/JuDa5/q3tbots-1.1.zip
+* http://www.fortunecity.com/underworld/olympic/452/downloads/q3tbots-1.1.zip
 * http://www.moneychair.demon.co.uk/quake3/q3bots/q3tbots-1_1.zip
 * http://www.q3arena.pl/download/add/q3tbots-1.11.zip
 
@@ -113,26 +179,6 @@ Some discussion here:
 * [http://www.q3arena.pl/1707-1209.html](https://web.archive.org/web/20010222142817/http://www.q3arena.pl/1707-1209.html) (archived)
 * [http://www.tranzmit.connectfree.co.uk/quake3.htm](https://web.archive.org/web/19991009060531/http://www.tranzmit.connectfree.co.uk/quake3.htm) (archived)
 * [http://www.moneychair.demon.co.uk:80/quake3/qbots.htm](https://web.archive.org/web/20000601060651/http://www.moneychair.demon.co.uk:80/quake3/qbots.htm) (archived)
-
-
-A copy of the v1.1 readme was posted on Usenet:
-
-```text
-==============================================================
-05/31/1999
-================================================================
-Title : Q3Test Bots Galore
-Filename : q3tbots.exe
-Version : 1.1
-Author : YoGrE
-Email Address : yo...@hotmail.com
-Description : Enables Bots in Quake 3 Test
-================================================================
-
-...
-```
-
--- [alt.games.quake3](https://groups.google.com/g/alt.games.quake3/c/6JVRn8dLmd4/m/oMNPaiQmYE0J), 6 July 1999.
 
 Interestingly, an alternate version (ripped off?) was shared here:
 
@@ -156,7 +202,7 @@ Web site                : Http://www.quakemania.freeserve.co.uk/
 ```
 
 
-Finally, I created a Geocities site to document all my findings and shared the link on Usenet:
+Finally, I created a Geocities site to document all my findings for how to get bots working and how to configure them correctly, and shared the link on Usenet:
 
 ```text
 What do you think?, 4 Nov 1999
@@ -172,5 +218,7 @@ http://geocities.com/q3bots/
 
 Sadly, it was not archived.
 
+Update: [See here](/blog/posts/chopper-land/) for an archived version of my old site.
 
+Update: [See here](/blog/posts/q3-test-versions/) for a list of all q3test versions. The above mod was for Q3Test v1.05.
 

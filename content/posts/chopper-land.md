@@ -26,7 +26,7 @@ The link was as follows:
 
 It later became http://geocities.com/q3bots which was not archived at all.
 
-Later I hosted material on my ISP account http://zygote.alphalink.com.au/ (not archived) before eventually getting hosted on [http://planetquake.com/humandebris](https://web.archive.org/web/20010428174103/http://www.planetquake.com/humandebris/) (archived), [see the archive here](https://github.com/Jason2Brownlee/HumanDebrisArchive).
+Later I hosted material on my ISP account http://zygote.alphalink.com.au/ (not archived) before eventually getting hosted on [http://planetquake.com/humandebris](https://web.archive.org/web/20010428174103/http://www.planetquake.com/humandebris/) (archived). You can see the full [archive project here](https://github.com/Jason2Brownlee/HumanDebrisArchive).
 
 I noticed that I shared the URL on usenet a few times. For example:
 
