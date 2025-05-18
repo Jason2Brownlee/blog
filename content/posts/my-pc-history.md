@@ -25,7 +25,9 @@ Some details are solid, because I have hard evidence. Other's less so,
 
 I remember the first family PC was probably an XT, but could have been upgraded to a 286. It was the machine where I played a ton of wolf3d, commander keen, and all the 1980s and early 90s games.
 
-I remember sometimes after the launch of Windows 95, we got a new family PC. Probably 1995 or 1996. It was our first multimedia PC. It ran Win95, it had a 16-bit sound card, our first CD-ROM, and 4MB RAM. I remember. we upgraded to 6 MB RAM at one point and I could finally play dark forces. I also remember [Encarta 95](https://en.wikipedia.org/wiki/Encarta) and playing around a lot with midi files. Also games like Doom and [Heretic](https://en.wikipedia.org/wiki/Heretic_(video_game)) with cool sound.
+I recall a close friend getting a new PC in 1994 and all of going around to his house a lot to play games. It was a [Compaq Presario](https://en.wikipedia.org/wiki/Compaq_Presario) all built-in, everything in one unit, including speakers and monitor. It felt like every weekend we were all down there play games on that thing. It was probably a high-end 486, but I have no idea.
+
+I remember we got a new family PC in 1994 or 1995. It was probably a high-end 486, most likely a DX2/66Mhz. I recall it was a multi-media PC, it had a soundblaster and CD-ROM, but I don't recall if we had windows 95 or we were running windows 3.11. It was probably 1995 so it was probably windows 95, but I don't have strong memories. I do recall that it had 4MB RAM and that at one point we got extra, probably another 4 takiing us to 8 so I could try out [Dark Forces](https://en.wikipedia.org/wiki/Star_Wars:_Dark_Forces), that required 6 MB. I recall playing around a lot with midi files. Also games like Doom and [Heretic](https://en.wikipedia.org/wiki/Heretic_(video_game)) with cool sound. I think I remember [Encarta](https://en.wikipedia.org/wiki/Encarta) on a CD-ROM, so it was probably in 1995 and we were probably running windows95.
 
 My first PC, purchased with my own hard earned money was a big deal. A 33.6 modem, microsoft joystick, and on. Lots of Mechwarrior 2, doom, duke3d, Quake, and on.
 
@@ -35,7 +37,7 @@ I remember that around the time of my first and second PC, I had many other less
 
 In university I upgraded to a Celeron 300A @450Mhz, and a record of the whole machine [was captured online](https://web.archive.org/web/20000601155757fw_/http://www.geocities.com/TimesSquare/Tower/8163/pc.html). I have no memory of a "Diamond Viper" Nvidia card. I was big into Linux and I do remember spending a ton of hours trying to get OpenGL and USB working right for gaming in Linux. It was a debugging puzzle more than a requirement. A technical challenge.
 
-The next upgrade is fuzzy. I remember it was a big machine with lots of fans and a large copper heat sink. It was probably over 1Ghz but I don't remember anything about it, really. I do remember selling it to a friend in my research group around 2004 or 2005. At the time I was doing a PhD and had an assigned workstation and access to fast servers for running experiments. I was living in a share house and had no need for a home PC. I lived in the lab, basically.
+The next upgrade is fuzzy. It was a strange time. AMD over-took Intel, so I switched to an AMD CPU. And GPUs flipped too I think, perhaps nvidia was not on top at the time (ati radeon?). I remember it was a big machine with lots of fans and a large copper heat sink. It was probably over 1.2Ghz but I don't remember anything about it, really. I remember I later bought a second-hand nvidia gforce card (gforce2 or 3?) from a friend for it circa 2001 or 2002. I think. I do remember selling it to a friend in my research group around 2004 or 2005. At the time I was doing a PhD and had an assigned workstation and access to fast servers for running experiments. I was living in a share house and had no need for a home PC. I lived in the lab, basically.
 
 I eventually got a tiny 12" [iBook](https://en.wikipedia.org/wiki/IBook), for some at-home running on rails dev, and other stuff. It was tiny, white and I really loved it. This was my big switch from Linux to MacOS. I sitll used Linux at work for a long time.
 
@@ -43,7 +45,7 @@ Eventually the ibook got too slow and I got a 27" iMac with 4 cores, I guess som
 
 I don't even know the details of my current workstation, it doesn't matter. If I need to run something fast or use GPUs, I get an ec2 box. And I don't game, other than some Quake now and then.
 
-Man I loved that ibook. It was not item, so probably powerpc. It was probably less than 1Ghz too.
+Man I loved that ibook. It was not intel, so probably powerpc. It was probably less than 1Ghz too.
 
 Here's a pic of what it looked like:
 
