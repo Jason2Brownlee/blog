@@ -11,19 +11,19 @@ I'm trying to remember by PCs. It's really hard.
 
 Here's a first draft of my PC history:
 
-* XT or 286 (?), Dad's, early 1990s to about 1993.
+* XT (later a 286?), Dad's, early 1990s to about 1993.
 * 486 DX2/66 (?), Family's, 1995-ish?
-* Pentium 133Mhz, My first PC, circa 1996
-* Pentium 266Mhz MMX, [Upgrade + 3DFX](/blog/posts/first-serious-pc/), circa 1997
+* Pentium 133Mhz, My first PC, circa 1996-ish
+* Pentium 266Mhz MMX, [Upgrade + 3DFX](/blog/posts/first-serious-pc/), circa 1997-ish
 * Celeron 300A @450Mhz, [Gaming box](https://web.archive.org/web/20000601155757fw_/http://www.geocities.com/TimesSquare/Tower/8163/pc.html), circa 1999
-* AMD 1.?Ghz, Some kind of AMD and GForce video card?, circa 2000-2004
+* AMD 1.2Ghz, Some kind of AMD and GForce video card?, circa 2000-2004
 * Apple iBook, sold everything for a laptop, circa 2005-2008.
 * Apple iMac, first imac, 2008-2017
 * Apple iMac, Current Workstation, circa 2017-present
 
 Some details are solid, because I have hard evidence. Other's less so,
 
-I remember the first family PC was probably an XT, but could have been upgraded to a 286. It was the machine where I played a ton of wolf3d, commander keen, and all the 1980s and early 90s games.
+I remember the first family PC was probably an XT, but could have been upgraded to a 286. It was the machine where I played a ton of wolf3d, commander keen, and all the 1980s and early 90s games that dad had collected (pirated) over the years. I have strong memories from 1991 and 1992 of using this machine a ton on weekends. First batch programming too I think. I lost access to this box late 1993 I think.
 
 I recall a close friend getting a new PC in 1994 and all of going around to his house a lot to play games. It was a [Compaq Presario](https://en.wikipedia.org/wiki/Compaq_Presario) all built-in, everything in one unit, including speakers and monitor. It felt like every weekend we were all down there play games on that thing. It was probably a high-end 486, but I have no idea.
 
@@ -37,13 +37,13 @@ I remember that around the time of my first and second PC, I had many other less
 
 In university I upgraded to a Celeron 300A @450Mhz, and a record of the whole machine [was captured online](https://web.archive.org/web/20000601155757fw_/http://www.geocities.com/TimesSquare/Tower/8163/pc.html). I have no memory of a "Diamond Viper" Nvidia card. I was big into Linux and I do remember spending a ton of hours trying to get OpenGL and USB working right for gaming in Linux. It was a debugging puzzle more than a requirement. A technical challenge.
 
-The next upgrade is fuzzy. It was a strange time. AMD over-took Intel, so I switched to an AMD CPU. And GPUs flipped too I think, perhaps nvidia was not on top at the time (ati radeon?). I remember it was a big machine with lots of fans and a large copper heat sink. It was probably over 1.2Ghz but I don't remember anything about it, really. I remember I later bought a second-hand nvidia gforce card (gforce2 or 3?) from a friend for it circa 2001 or 2002. I think. I do remember selling it to a friend in my research group around 2004 or 2005. At the time I was doing a PhD and had an assigned workstation and access to fast servers for running experiments. I was living in a share house and had no need for a home PC. I lived in the lab, basically.
+The next upgrade is fuzzy. It was a strange time. AMD over-took Intel, so I switched to an AMD CPU (probably an [AMD Athlon](https://en.wikipedia.org/wiki/List_of_AMD_Athlon_processors) 1200 or 1400). And GPUs flipped too I think, perhaps nvidia was not on top at the time ([ATI Radeon](https://en.wikipedia.org/wiki/Radeon)?). I remember it was a big machine with lots of fans and a large copper heat sink. It was probably over 1.2Ghz but I don't remember anything about it, really. I remember I later bought a second-hand nvidia gforce card (gforce2 or 3?) from a friend for it circa 2001 or 2002. I think. I do remember selling the whole rig to a friend in my research group around 2004 or 2005. At the time I was doing a PhD and had an assigned workstation and access to fast servers for running experiments. I was living in a share house and had no need for a home PC. I lived in the lab, basically.
 
 I eventually got a tiny 12" [iBook](https://en.wikipedia.org/wiki/IBook), for some at-home running on rails dev, and other stuff. It was tiny, white and I really loved it. This was my big switch from Linux to MacOS. I sitll used Linux at work for a long time.
 
 Eventually the ibook got too slow and I got a 27" iMac with 4 cores, I guess some kind of i7. I had that for a decade at least before upgrading to another identical machine with all faster new internals (SSD, i7 etc).
 
-I don't even know the details of my current workstation, it doesn't matter. If I need to run something fast or use GPUs, I get an ec2 box. And I don't game, other than some Quake now and then.
+I don't even know the details of my current workstation, it doesn't matter. If I need to run something fast or use GPUs, I get an ec2 box. And I don't game, other than some Quake now and then. About this mac says stuff like 4.2GHz Quad-core Intel i7 and Radeon Pro 580, 64GB RAM and on. Whatever.
 
 Man I loved that ibook. It was not intel, so probably powerpc. It was probably less than 1Ghz too.
 
