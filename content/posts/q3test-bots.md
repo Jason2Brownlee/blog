@@ -86,7 +86,7 @@ Here's the content:
 -rw-rw-r--  0 0      0         248  8 Jun  1999 Readme.txt.txt
 ```
 
-It seems `Readme.txt.txt` was added by who ever hosted the file.
+It seems `Readme.txt.txt` was added by whoever hosted the file.
 
 Here's the truncated file header and changelog:
 

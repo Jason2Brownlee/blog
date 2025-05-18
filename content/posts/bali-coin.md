@@ -3,9 +3,9 @@ date: '2025-05-18T06:40:41+10:00'
 title: 'Bali Coin'
 ---
 
-I have written a novella for my youngest son (e.g. targets age 6-12).
+I have written a novella for my youngest son (e.g. targets age 6 to 12).
 
-It's about him and his brother in their favourite holiday destination.
+It's about him and his brother visiting their favourite holiday destination.
 
 The title is: "**The Bali Coin**"
 
