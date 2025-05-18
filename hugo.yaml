@@ -5,9 +5,9 @@ theme: PaperMod
 timeZone: "Australia/Melbourne"
 
 enableRobotsTXT: true
-buildDrafts: false
-buildFuture: false
-buildExpired: false
+buildDrafts: true
+buildFuture: true
+buildExpired: true
 
 minify:
   disableXML: true
@@ -119,14 +119,18 @@ params:
     keys: ["title", "content"]
 menu:
   main:
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 10
     - identifier: now
       name: Now
       url: /now
-      weight: 10
+      weight: 20
     - identifier: about
       name: About
       url: /about
-      weight: 20
+      weight: 30
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
@@ -142,3 +146,9 @@ markup:
 services:
   googleAnalytics:
     id: G-YDGXD83FVZ
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
