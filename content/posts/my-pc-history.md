@@ -3,11 +3,17 @@ date: '2025-05-19T06:29:38+10:00'
 title: 'My PC History'
 ---
 
-I read "[Building my childhood dream PC](https://fabiensanglard.net/2168/)" by fabiensanglard and shared in his nostalgia for his childhood dream PC.
+I read "[Building my childhood dream PC](https://fabiensanglard.net/2168/)" by [Fabien Sanglard](https://fabiensanglard.net/) and shared in his nostalgia for his childhood dream PC.
 
-So cool.
+So cool. So beautiful. So nostalgic!
 
-I'm trying to remember my PCs. It's really hard.
+I like the final line in the [epilogue](https://fabiensanglard.net/2168/epilogue/):
+
+> _I am quite eager to build a "Beautiful 1997 Quake Machine" now._
+
+YES!
+
+Now, I'm trying to remember my PCs. It's really hard.
 
 Here's a first draft of my PC history:
 
