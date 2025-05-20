@@ -11,18 +11,18 @@ First, the given is we know what we are searching for, e.g. we have a wishlist o
 
 The first pass involves either finding the file or collecting all known locations where the file used to exist. Later we can dig further into each URL via the wayback machine to learn more.
 
-1. Find all historical locations for the file on the [Quake Archive Search](https://github.com/Jason2Brownlee/QuakeArchiveSearch). My private DB of URLs has 50M+ entries at this point.
-	1. Check each URL in the wayback machine, if downloaded, stop.
+1. Search index URLs from the wayback machine via [Quake Archive Search](https://github.com/Jason2Brownlee/QuakeArchiveSearch). My private DB of URLs has 50M+ entries at this point.
+	1. Try downloading each URL in the wayback machine
 	2. Add all file URLs to the wishlist URLs file.
 2. Search on the Internet Archive (it's not well indexed)
 	1. [Discmaster](https://discmaster.textfiles.com/) (possibly find)
 	2. [Archive](https://archive.org/) (possibly find)
-3. Search on [GoogleGroups](https://groups.google.com/) (historical URLS)
+3. Search on [GoogleGroups](https://groups.google.com/) (historical URLs)
 	1. Add all new URLs for the file to the wishlist URLs.
-4. FTP Search (possibly find, or get historical URLS)
+4. FTP Search (possibly find, or get historical URLs)
 	1. [Mamont](https://www.mmnt.ru/) (historical URLs)
 	2. [Napalm](https://www.searchftps.net/) (possibly find)
 5. Web Search (possibly find, historical URLs)
 	1. [Google](https://www.google.com/)
 	2. [Yandex](https://yandex.com/)
-	4 [Duckduckgo](https://duckduckgo.com/)
+	3. [Duckduckgo](https://duckduckgo.com/)
