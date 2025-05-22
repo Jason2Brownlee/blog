@@ -121,3 +121,6 @@ So the Q3Test timeline is something like:
 * Nov 15, 1999, v1.09 (demo)
 
 If the [bot hack](/blog/posts/q3test-bots/) was released late May 1999, then it makes sense it was for v1.05 on win32.
+
+
+Update: See the [Quake 3 Official Archive](https://github.com/Jason2Brownlee/Quake3OfficialArchive)
