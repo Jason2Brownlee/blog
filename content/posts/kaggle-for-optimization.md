@@ -9,6 +9,10 @@ One of the more popular competitions we had was made semi-formal called maxpath:
 
 * [Max Path](https://github.com/Jason2Brownlee/MaxPath)
 
+Pic:
+
+![max path](https://raw.githubusercontent.com/Jason2Brownlee/MaxPath/main/grid.jpg)
+
 I've always enjoyed optimization more than machine learning.
 
 I remember having coffee with Kaggle's [Anthony Goldbloom](https://en.wikipedia.org/wiki/Anthony_Goldbloom) circa 2010 and saying that he should add competitions for optimization problems. It wasn't a good fit.
@@ -36,3 +40,5 @@ My guess is that stuff like this is already part of larger competition coding pl
 I was thinking that it would be more of a fun house for stochastic optimization algorithm practitioners and hobbyists to try out their wares.
 
 The effort is low to get a prototype of this going for maxpath running on netlify with python/sqlite.
+
+meh.
