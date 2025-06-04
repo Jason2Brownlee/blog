@@ -1,6 +1,6 @@
 ---
 date: '2025-06-05T08:04:30+10:00'
-title: 'Code Simple Algorithms and Data Structures'
+title: 'Code Simple Algorithms and Data Structures (from scratch for fun)'
 ---
 
 Vibe coding is amazingly productive, at least for experiments and prototypes.
