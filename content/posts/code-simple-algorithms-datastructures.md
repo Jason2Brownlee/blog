@@ -58,4 +58,6 @@ One could imagine a platform that you code in directly and run unit tests in the
 
 The simplest version is static. If that is fun enough, expand later if there's any interest.
 
-For now, one-at-a-time template generation and manually completion, just for me.
+For now, one-at-a-time template generation and manual completion, just for me.
+
+This all has the smell of [algorithm afternoon](https://algorithmafternoon.com/), but for compsci and with unit tests.
