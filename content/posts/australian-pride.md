@@ -3,7 +3,7 @@ date: '2025-06-06T08:01:19+10:00'
 title: 'Australian Pride'
 ---
 
-My kids often come home talking about how the environment is ruined or all of the bad things "we" did in "our" past.
+My kids often come home (from school) talking about how the environment is ruined or all of the bad things "we" did in "our" past, as Australians.
 
 Perhaps.
 
