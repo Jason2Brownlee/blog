@@ -30,7 +30,7 @@ What else?
 
 I pasted this and chatted with gpt4o and we worked out a program with progression and clear per-task objectives:
 
-
+---
 
 ## 🛠️ **Computer Hardware Workshop Series (Parent & Child Edition)**
 
@@ -121,5 +121,13 @@ I pasted this and chatted with gpt4o and we worked out a program with progressio
   * Use everything learned to build a functioning system from scratch.
   * Outcome: Built and booted a fully working desktop.
 
+---
 
+We also came up with a printable system card to complete for each complete system:
+
+* [Hardware System Card (PDF)](/blog/pics/System_Card_Template_Single_Page.pdf)
+
+Update, we created a nice PDF version of the first workshop sessions with checkboxes for each:
+
+* [Hardware Workshop Sessions (PDF)](/blog/pics/Workshop_Sessions_Checklist.pdf)
 
