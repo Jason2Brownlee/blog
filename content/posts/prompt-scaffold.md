@@ -5,6 +5,8 @@ title: 'Prompt Scaffold'
 
 I have been thinking of coding up some more elaborate prompt scaffolding for writing projects.
 
+I guess I don't need to.
+
 Today, I watched:
 
 * [I Got AI to Write a Book with One Click, and It Was...](https://www.youtube.com/watch?v=We_QOxNs0bw&ab_channel=TheNerdyNovelist)
@@ -36,3 +38,5 @@ I can see areas for improvements, e.g. it clearly needs loops and prior chapter 
 It would save me time as I have been doing things like this manually with a suite of front-line models, although with a lot more hand tweaking at each step to push things in the directions I want.
 
 I must experiment with this.
+
+I suspect most no-code automation platforms can do this, e.g. zapier.
