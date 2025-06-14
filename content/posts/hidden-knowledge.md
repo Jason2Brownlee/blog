@@ -1,6 +1,8 @@
 ---
 date: '2025-06-15T06:28:08+10:00'
 title: 'Hidden Knowledge and Literature-based Discovery via LLMs'
+cover:
+    image: /blog/pics/Hidden-Knowledge-and-Literature-based-Discovery-via-LLMs.jpg
 ---
 
 I read Samuel Arbesman's "[The Half-life of Facts](https://www.goodreads.com/book/show/13588433-the-half-life-of-facts)" yesterday.
@@ -77,3 +79,6 @@ Are people doing this? Where? Who's talking about it?
 
 Maybe I need to do a deep research on this question :)
 
+Here's a cool pic from grok3 inspired by this piece:
+
+![Hidden Knowledge and Literature-based Discovery via LLMs](/blog/pics/Hidden-Knowledge-and-Literature-based-Discovery-via-LLMs.jpg)
