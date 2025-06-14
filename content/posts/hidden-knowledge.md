@@ -71,7 +71,9 @@ meh.
 
 Go harder!
 
-I want headline titles saying "_we found something cool and novel-ish and we did it via LLMs_". Like the matrix multiplication finding recently from [alphaevolve](/blog/posts/alphaevolve/).
+I want headline titles saying "_we found something cool and novel-ish and we did it via LLMs_".
+
+Kind of like the matrix multiplication finding recently from [alphaevolve](/blog/posts/alphaevolve/). But that was different, that was not doing LBD, it was LLM-enhanced objective function optimization.
 
 The examples of LBD the book are good, e.g. highly specific problems in medicine. But surely, one could create lists of thousands of such problems and throw each at an LLM workflow to "investigate"?
 
