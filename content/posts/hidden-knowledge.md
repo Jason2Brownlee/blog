@@ -69,7 +69,7 @@ meh.
 
 Go harder!
 
-I want headline titles saying "_we found something cool and novel-ish and we did it via LLMs_".
+I want headline titles saying "_we found something cool and novel-ish and we did it via LLMs_". Like the matrix multiplication finding recently from [alphaevolve](/blog/posts/alphaevolve/).
 
 The examples of LBD the book are good, e.g. highly specific problems in medicine. But surely, one could create lists of thousands of such problems and throw each at an LLM workflow to "investigate"?
 
