@@ -75,7 +75,7 @@ I want headline titles saying "_we found something cool and novel-ish and we did
 
 Kind of like the matrix multiplication finding recently from [alphaevolve](/blog/posts/alphaevolve/). But that was different, that was not doing LBD, it was LLM-enhanced objective function optimization.
 
-The examples of LBD the book are good, e.g. highly specific problems in medicine. But surely, one could create lists of thousands of such problems and throw each at an LLM workflow to "investigate"?
+The examples of LBD in the book are good, e.g. highly specific problems in medicine. But surely, one could create lists of thousands of such problems and throw each at an LLM workflow to "investigate"?
 
 Are people doing this? Where? Who's talking about it?
 
