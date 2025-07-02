@@ -3,7 +3,7 @@ date: '2025-07-02T09:57:22+10:00'
 title: 'Back on the Path'
 ---
 
-After a long holiday where you eat like a pig and exercise not at all, how do you get on the path?
+After a long holiday where you eat like a pig and exercise not at all, how do you get back on the path?
 
 You must cut calories and get the body/brain used to the new regimen as fast as possible, e.g. avoid backsliding.
 
@@ -13,9 +13,11 @@ Next, cut carbs.
 
 Then cut calories to below maintenance.
 
-All while exercising daily, as close to normal as possible. Drink a ton of water.
+All while exercising daily, as close to normal as possible. Don't feel like going to the gym? Who the hell does? Fine, walk 5km. Lift at home. Get that body moving. Strain those muscles.
 
-And don't skip meals, it almost always backfires. Especially in the early stages where we want to make big moves to get big effects. It's just too hard to not binge on the next meal.
+Drink a ton of water.
+
+And don't skip meals, it (almost) always backfires. Especially in the early stages where we want to make big moves to get big effects. It's just too hard to not binge (overeat) on the next meal.
 
 Summary:
 
@@ -38,5 +40,7 @@ The goal is to avoid a step back, a backslide. Mentally, a backslide is hard and
 If (fake) "hunger" is too strong, eat meat. Eat a ton of eggs. Eat a bowl of broccoli. At worst, a handful or two of almonds. Follow with a huge glass of water. Follow all meals with a ton of water to get that full feeling fast.
 
 Man, staying lean after 40 is hard work.
+
+Remember, you have complete control over what you choose to put in your face. Stop and think. You don't have to agree/join social eating. Say: "No thanks". You're on the path. We walk it alone.
 
 Get to it!
