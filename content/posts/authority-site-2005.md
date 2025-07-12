@@ -88,3 +88,12 @@ There will be broad opportunities right now with a vast number of specific solut
 
 And you know what they are. It's AI. Crypo. SaaS.
 
+But it's more than that. There was a community circa 2010-2011 that was figuring out micro niche sites + SEO + AdSense and later Amazon Associates and sharing knowledge, helping the target audience,and making money, and it was all very exciting.
+
+What is the 2025 version of that?
+
+Probably information products on: how to use [chatgpt/AI] for [industry/vertical].
+
+Narrow tech support for niche.
+
+Maybe.
