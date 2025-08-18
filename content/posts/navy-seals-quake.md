@@ -3,7 +3,7 @@ date: '2025-08-19T08:12:38+10:00'
 title: 'Navy Seals Quake'
 ---
 
-I've created a new Quake archive, this time for the Navy Seals modification by Minh Le aka "Gooseman".
+I've created a new Quake archive, this time for the Navy Seals modification by [Minh Le](https://en.wikipedia.org/wiki/Minh_Le) aka "Gooseman".
 
 This was originally an ad hoc archive as a gist here:
 
