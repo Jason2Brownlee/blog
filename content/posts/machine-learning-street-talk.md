@@ -17,9 +17,9 @@ Both the quality of the guests and the quality of the questions/discussion. Rive
 
 Specifically:
 
-* [The Secret Ingredient for AI Creativity](https://www.youtube.com/watch?v=KKUKikuV58o&ab_channel=MachineLearningStreetTalk) A chat with Kenneth Stanley.
-* [Did a 7 Year Old Really Solve the Universe?](https://www.youtube.com/watch?v=HR-_U0Pzl1Y&ab_channel=MachineLearningStreetTalk) A chat with Guillaume Verdon.
-* [Mutually Assured AI Malfunction (Superintelligence Strategy)](https://www.youtube.com/watch?v=PM1waDBNDhw&ab_channel=MachineLearningStreetTalk) A chat with Dan Hendrycks.
+* [The Secret Ingredient for AI Creativity](https://www.youtube.com/watch?v=KKUKikuV58o&ab_channel=MachineLearningStreetTalk) A chat with [Kenneth Stanley](https://en.wikipedia.org/wiki/Kenneth_Stanley).
+* [Did a 7 Year Old Really Solve the Universe?](https://www.youtube.com/watch?v=HR-_U0Pzl1Y&ab_channel=MachineLearningStreetTalk) A chat with [Guillaume Verdon](https://en.wikipedia.org/wiki/Guillaume_Verdon).
+* [Mutually Assured AI Malfunction (Superintelligence Strategy)](https://www.youtube.com/watch?v=PM1waDBNDhw&ab_channel=MachineLearningStreetTalk) A chat with [Dan Hendrycks](https://en.wikipedia.org/wiki/Dan_Hendrycks).
 
 All three had be sitting and staring into space for a long time, thinking through things. Not sure I'm smart enough to keep up at double speed, a few listens are required.
 
