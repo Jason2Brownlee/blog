@@ -1,6 +1,6 @@
 ---
 date: '2025-08-20T08:14:38+10:00'
-title: 'Automation Replacing Humans'
+title: "Automation Replacing Human Programmers (and that's fine)"
 ---
 
 I was listening to an Acquired episode and the guest mentioned the role of computers (people) being replaced by electronic computers, and how programming/coding will/is seeing the same fate.
@@ -30,6 +30,8 @@ Anyway, the sentiment of his quote hit a chord in me.
 I really like programming. I identify as a programmer. I've been writing code for 25-30 years. And the role is going away.
 
 This is normal. It happens all the time, and now it is happening to my thing.
+
+It's cool, expected. Move on further up the stack.
 
 I was talking this over with chatgpt and we were talking though the general challenging of developing software.
 
