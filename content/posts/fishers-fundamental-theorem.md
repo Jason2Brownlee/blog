@@ -39,4 +39,5 @@ Something like:
 
 or
 
-> variance is the price of adaptability
+> _variance is the price of adaptability_
+
