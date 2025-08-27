@@ -64,3 +64,6 @@ Yes, I did develop this with gpt5... of course.
 
 I think this will be a thing, I will participate, but I'm not a fanatic.
 
+Here's a cool pic:
+
+![Discipline Coding](/blog/pics/Discipline-Coding.png)
