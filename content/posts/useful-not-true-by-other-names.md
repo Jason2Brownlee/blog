@@ -176,7 +176,7 @@ Let's apply each around the active goal of maintaining a calorie deficit (via gp
 
 ---
 
-Facinating.
+Fascinating.
 
 A few stand out:
 
