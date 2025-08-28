@@ -11,7 +11,7 @@ This takes 25 minutes.
 
 If I'm tired, I'll run the first 2km at a 6min pace, then increase after that, for example: 6, 6, 5.5, 5, 4.5. This takes 27 minutes.
 
-I row a few km and cycle a few km before all of this. I like to end with the run.
+I row and cycle before all of this. I like to end with the run.
 
 I can go faster, but this feels good and the 4 min pace at the end feels great.
 
@@ -21,7 +21,7 @@ Anyway, any time I start thinking that I could run a 5km race, I look up the tim
 
 I suck bad.
 
-And this treadmill running, not real world running with other humans around me.
+And this is treadmill running, not real world running with other humans around me.
 
 For example, according to [Male 5k Running Times](https://runninglevel.com/running-times/5k-times), here are the scores for someone around my age (I'm 44, below are times for 45):
 
