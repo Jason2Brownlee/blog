@@ -1,6 +1,6 @@
 ---
 date: '2025-10-27T07:46:39+11:00'
-title: 'Hurt Me Plenty and Gaming Nostalgia'
+title: "I'm Too Young To Die and Gaming Nostalgia"
 ---
 
 I read "[I’m Too Young To Die](https://www.goodreads.com/book/show/63883908-i-m-too-young-to-die)" by [Bitmap Books](https://www.bitmapbooks.com/) last week.
