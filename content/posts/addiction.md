@@ -3,7 +3,7 @@ date: '2025-10-31T06:47:47+11:00'
 title: 'Addiction'
 ---
 
-I just read two books on celebrities with addiction:
+I just read two books on celebrities whose lives were ruined by addiction:
 
 * [Friends, Lovers, and the Big Terrible Thing](https://www.goodreads.com/book/show/59641216-friends-lovers-and-the-big-terrible-thing), Matthew Perry.
 * [The Book of Sheen](https://www.goodreads.com/book/show/234383003-the-book-of-sheen), Charlie Sheen.
