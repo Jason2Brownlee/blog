@@ -17,7 +17,7 @@ These books gave him an interest in ancient Greece. I've purchased a few books f
 
 And I'm sure I'll buy more. Probably the rest of Stephen Fry's series.
 
-Anyway, this interest in Greece has lead to a planned trip there. Just him and myself with the goal of seeing the ancient sighs, then relaxing on some islands in the Aegean.
+Anyway, this interest in Greece has lead to a planned trip there. Just him and myself with the goal of seeing the ancient sights, then relaxing on some islands in the Aegean.
 
 Out of interest, I asked gpt5 to list all places in Greece mentioned in the Percy Jackson book series, to ensure we visit places knows from the books.
 
