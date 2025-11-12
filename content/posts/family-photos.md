@@ -47,6 +47,7 @@ This pace will slow as the kids grow and holiday with us less over time.
 
 This all could be simpler.
 
+- Push backups to an external HDD as well.
 - Sync from phone to cloud.
 - AI-select photos by event and interestingness.
 - Print photo book rather than prints.
