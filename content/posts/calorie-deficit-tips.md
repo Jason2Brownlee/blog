@@ -17,7 +17,3 @@ It tweets new tips every 2 hours around the clock.
 
 I make sure to read the last few tips every time I'm on twitter to stay on the path.
 
-For example:
-
-{{< twitter user="DeficitMastery" id="1981830565793083676" >}}
-
