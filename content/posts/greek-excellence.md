@@ -3,7 +3,7 @@ date: '2025-11-25T05:34:28+11:00'
 title: 'Greek Excellence'
 ---
 
-I nice idea I've come across in my reading of the ancient Greeks is what they call "[Arete](https://en.wikipedia.org/wiki/Arete)".
+A nice idea I've come across in my reading of the ancient Greeks is what they call "[Arete](https://en.wikipedia.org/wiki/Arete)".
 
 Perhaps translated as virtue or excellence.
 
@@ -17,7 +17,7 @@ Anyway, here's a summary from gpt5.1:
 
 I like the idea and I try to drill this into my kids (myself?), to no avail.
 
-Hmm, rather than excellence, I'm more of a "follow your circuity and obsess about a topic" kind of guy.
+Hmm, rather than excellence, I'm more of a "follow your curiosity and obsess about a topic" kind of guy.
 
 Do the Greeks have a word/philosophy for that?
 
