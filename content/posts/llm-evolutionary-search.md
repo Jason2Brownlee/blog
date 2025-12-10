@@ -48,6 +48,9 @@ I suspect projects like:
 	* [CodeEvolve](https://github.com/inter-co/science-codeevolve), GitHub
 * CALM
 	* [CALM: Co-evolution of Algorithms and Language Model for Automatic Heuristic Design](https://arxiv.org/abs/2505.12285), Paper
+* AI Co-Scientist (google)
+	* [Towards an AI co-scientist](https://arxiv.org/abs/2502.18864), Paper
+	* [Accelerating scientific breakthroughs with an AI co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)
 
 And many others.
 
