@@ -23,5 +23,9 @@ These are not the (medieval) "Turks".
 
 > Turks originate from Central Asia and began migrating into Anatolia only after the 11th century CE, especially following the Battle of Manzikert (1071). Modern Turkey gets its name, language, and primary ethnic identity from these later Turkic migrations...
 
-Later, after the Bronze Age collapse it became a settlement by Greek-speaking people (Greeks?).
+Also see:
+
+* [Late Bronze Age Troy, Wikipedia](https://en.wikipedia.org/wiki/Late_Bronze_Age_Troy)
+
+Later, after the Bronze Age collapse it became a settlement by Greek-speaking people (Greeks? Hellenes?).
 
