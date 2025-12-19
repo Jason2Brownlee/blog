@@ -119,13 +119,17 @@ Used illustratively rather than empirically.
 
 Wow.
 
-I learned a new word: "Rentiers".
+I learned a new word: "Rentier".
 
 > a person living on income from property or investments.
 
 That's me!
 
-I've also mentioned to a few different people that I'm a "gentleman scientist", but that's not really true. I'm closer to "idle author" or "sabbatical-taker" or something.
+The modern phrase would be [financially independent](https://en.wikipedia.org/wiki/Financial_independence) or FI.
+
+I've also mentioned to a few different people that I'm a "gentleman scientist", but that's not really true.
+
+I'm closer to "idle author" or "sabbatical-taker" or something. Chatgpt calls me a "_gentleman scholar_". I like it :)
 
 Years ago, I also used to dream (wish?) I was a medieval monk/scribe, illuminating manuscripts all day. Romanic ideas after reading books like [Anathem](https://www.goodreads.com/book/show/2845024-anathem) and [Name of the Rose](https://www.goodreads.com/book/show/119073.The_Name_of_the_Rose).
 
