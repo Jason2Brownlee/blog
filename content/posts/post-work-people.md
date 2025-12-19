@@ -3,7 +3,7 @@ date: '2025-12-20T05:52:48+11:00'
 title: 'Post-Work People'
 ---
 
-I'm about half way through Nick Bostrom's "Deep Utopia".
+I'm about half way through Nick Bostrom's "[Deep Utopia: Life and Meaning in a Solved World](https://www.goodreads.com/book/show/211858058-deep-utopia)".
 
 I love it. I don't love the discussion/socratic sections (skip), but I love the lecture sections.
 
@@ -127,7 +127,7 @@ That's me!
 
 I've also mentioned to a few different people that I'm a "gentleman scientist", but that's not really true. I'm closer to "idle author" or "sabbatical-taker" or something.
 
-Years ago, I also used to dream (wish?) I was a medieval monk/scribe, illuminating manuscripts all day. Romanic ideas after reading books like Anathem and Name of the Rose.
+Years ago, I also used to dream (wish?) I was a medieval monk/scribe, illuminating manuscripts all day. Romanic ideas after reading books like [Anathem](https://www.goodreads.com/book/show/2845024-anathem) and [Name of the Rose](https://www.goodreads.com/book/show/119073.The_Name_of_the_Rose).
 
 In the book, he also mentioned the fictional "[Superfluous man](https://en.wikipedia.org/wiki/Superfluous_man)"
 
