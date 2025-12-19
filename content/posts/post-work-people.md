@@ -133,9 +133,11 @@ I'm closer to "idle author" or "sabbatical-taker" or something. Chatgpt calls me
 
 Years ago, I also used to dream (wish?) I was a medieval monk/scribe, illuminating manuscripts all day. Romanic ideas after reading books like [Anathem](https://www.goodreads.com/book/show/2845024-anathem) and [Name of the Rose](https://www.goodreads.com/book/show/119073.The_Name_of_the_Rose).
 
-In the book, he also mentioned the fictional "[Superfluous man](https://en.wikipedia.org/wiki/Superfluous_man)"
+In the book, Bostrom also mentioned the fictional "[Superfluous man](https://en.wikipedia.org/wiki/Superfluous_man)"
 
 > a recurring figure in 19th-century Russian fiction: a well-educated, socially privileged man who is intelligent and sensitive but alienated, inactive, and unable to find purpose or meaningful agency in society.
 
-Cautionary.
+Also new to me, and cautionary.
+
+It reading and working out all day too vain?
 
