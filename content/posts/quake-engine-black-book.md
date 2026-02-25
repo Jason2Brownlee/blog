@@ -10,6 +10,8 @@ This will sit along side is excellent Doom and Wolf3d engine black books:
 * [Game Engine Black Book Wolfenstein 3D](https://amzn.to/4kU7BOF)
 * [Game Engine Black Book: DOOM](https://amzn.to/4aDkTvD)
 
+[See the series here](https://fabiensanglard.net/three_books_update/), which includes free PDF downloads. I read his "The Book of CP-System" book, but it was not as nostalgic as the other two.
+
 He has not come out and declared the Quake book, but he's been writing a lot about Quake recently (~4 months), for example:
 
 * [How quake.exe got its TCP/IP stack](https://fabiensanglard.net/quake_chunnel/), Nov 17, 2025
