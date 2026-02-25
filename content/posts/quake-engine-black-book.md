@@ -27,6 +27,8 @@ His building and testing of a Quake PC was particularly awesome as it got into 3
 
 Such good memories!
 
+One cool thing is that he has linked/referenced my [Quake Official Archive](https://github.com/Jason2Brownlee/QuakeOfficialArchive) a few times. Yay!
+
 He also has some older Quake code review articles/series:
 
 * [Quake Engine code review](https://fabiensanglard.net/quakeSource/index.php), March 9th, 2009
