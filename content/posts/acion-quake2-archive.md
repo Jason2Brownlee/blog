@@ -19,5 +19,7 @@ You can see the reconstructed release history here:
 
 * [Action Quake II Release History](https://github.com/Jason2Brownlee/ActionQuake2Archive/blob/main/research/history.md)
 
-The archive has most of the later releases and many of the important early release. I was surprised, given the popularity of the mod and the era (1998-1999) I expected more of the releases to have been archived by the Wayback Machine.
+The archive has most of the later releases and many of the important early releases.
+
+I was surprised, given the popularity of the mod and the era (1998-1999) I expected more of the releases to have been archived by the Wayback Machine.
 
