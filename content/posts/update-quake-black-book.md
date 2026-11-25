@@ -9,7 +9,7 @@ I mentioned back in February that there were signs that Fabien Sanglard was work
 
 Well, it's real!
 
-Fabien tweeted photos of an anuthor copy earlier this month:
+Fabien tweeted photos of an author copy earlier this month:
 
 {{< x user="fabynou" id="2119534594794156300" >}}
 
