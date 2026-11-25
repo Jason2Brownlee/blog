@@ -11,7 +11,7 @@ Here is a local copy (tweets get deleted sometimes...):
 
 Here's the tweet where it came from:
 
-{{< twitter user="johnrushx" id="1882277087224185312" >}}
+{{< x user="johnrushx" id="1882277087224185312" >}}
 
 It's a great framework.
 
@@ -62,7 +62,7 @@ Local copy again in case the tweet gets deleted:
 
 Here's the [original tweet](https://x.com/russellbrunson/status/1841914867969658998):
 
-{{< twitter user="russellbrunson" id="1841914867969658998" >}}
+{{< x user="russellbrunson" id="1841914867969658998" >}}
 
 1. Take something you already do
 2. Learn to do it bettern than anybody else

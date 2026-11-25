@@ -61,13 +61,13 @@ Oh man, that is a massive drop off.
 
 I shared the pic on twitter.
 
-{{< twitter user="jason2brownlee" id="1877054113340358707" >}}
+{{< x user="jason2brownlee" id="1877054113340358707" >}}
 
 Henk Poley picked it up and ran with it plotting the data and drop off in new questions in all kinds of great ways.
 
 For example:
 
-{{< twitter user="HenkPoley" id="1877087567985754211" >}}
+{{< x user="HenkPoley" id="1877087567985754211" >}}
 
 Interesting days ahead for user-generated content. For technical/programming blog posts.
 

@@ -27,7 +27,7 @@ Here's the [tweet version](https://x.com/Nicolascole77/status/174625349704821560
 >
 > You can easily hit $10k+/month using this simple framework.
 
-{{< twitter user="Nicolascole77" id="1746253497048215606" >}}
+{{< x user="Nicolascole77" id="1746253497048215606" >}}
 
 Anyway, I've about versions of this framework many times over the years.
 
@@ -48,7 +48,7 @@ For example, from [Justin Welsh](https://www.justinwelsh.me/):
 
 Here's the [original tweet](https://x.com/thejustinwelsh/status/1763186982115574196):
 
-{{< twitter user="thejustinwelsh" id="1763186982115574196" >}}
+{{< x user="thejustinwelsh" id="1763186982115574196" >}}
 
 This is very clear.
 

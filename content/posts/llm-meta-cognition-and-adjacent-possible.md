@@ -14,7 +14,7 @@ The piece I like is:
 
 Here's the [full tweet](https://x.com/karpathy/status/1884336943321997800):
 
-{{< twitter user="karpathy" id="1884336943321997800" >}}
+{{< x user="karpathy" id="1884336943321997800" >}}
 
 Fantastic tweet.
 

@@ -7,7 +7,7 @@ Okay, I've released and publicly announced [Lovecraft Copywork](http://Lovecraft
 
 Here's the tweet:
 
-{{< twitter user="jason2brownlee" id="1890163066689708213" >}}
+{{< x user="jason2brownlee" id="1890163066689708213" >}}
 
 Below are some screenshots.
 

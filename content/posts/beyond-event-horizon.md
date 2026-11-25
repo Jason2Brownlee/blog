@@ -5,7 +5,7 @@ title: 'Beyond the Event Horizon'
 
 I just tripped over a [cute tweet](https://x.com/sama/status/1896653628674625812) by sama + gpt4.5.
 
-{{< twitter user="sama" id="1896653628674625812" >}}
+{{< x user="sama" id="1896653628674625812" >}}
 
 He was asking if we are close to the singularity.
 

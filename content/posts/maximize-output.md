@@ -5,7 +5,7 @@ title: 'Maximize Output'
 
 Tripped over [this video](https://x.com/vitrupo/status/1914639821508649263) of Richard Socher talking about AI:
 
-{{< twitter user="vitrupo" id="1914639821508649263" >}}
+{{< x user="vitrupo" id="1914639821508649263" >}}
 
 The start of his response going something like:
 

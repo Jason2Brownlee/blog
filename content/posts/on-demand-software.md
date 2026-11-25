@@ -5,7 +5,7 @@ title: 'On-Demand Software'
 
 I just saw [this tweet](https://x.com/amasad/status/1886859253648122181) go by [Amjad Masad](https://x.com/amasad), [Replit](https://replit.com/)'s CEO:
 
-{{< twitter user="amasad" id="1886859253648122181" >}}
+{{< x user="amasad" id="1886859253648122181" >}}
 
 It's a video promoting "coding on the phone".
 

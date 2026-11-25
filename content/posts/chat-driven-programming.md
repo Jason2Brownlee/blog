@@ -55,4 +55,4 @@ I think this is a big idea. A foreshadow of where we are headed: that is, to gen
 
 I tweeted a version of this here:
 
-{{< twitter user="jason2brownlee" id="1876748574253371704" >}}
+{{< x user="jason2brownlee" id="1876748574253371704" >}}

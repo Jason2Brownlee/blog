@@ -11,7 +11,7 @@ I tripped over another [banger tweet](https://x.com/karpathy/status/188620094347
 
 Here's the tweet:
 
-{{< twitter user="karpathy" id="1886200943471157418" >}}
+{{< x user="karpathy" id="1886200943471157418" >}}
 
 Here's a larger version of the screenshot:
 

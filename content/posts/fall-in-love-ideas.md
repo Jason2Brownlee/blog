@@ -5,7 +5,7 @@ title: 'Fall In Love With (Your) Ideas'
 
 I saw [this tweet](https://x.com/Julian/status/1893742878830088385) go by a few weeks back:
 
-{{< twitter user="Julian" id="1893742878830088385" >}}
+{{< x user="Julian" id="1893742878830088385" >}}
 
 Specifically the line:
 
